@@ -1,0 +1,12 @@
+notas: parece que la división no sirve para la siguiente consulta:
+
+areas donde todos sus empleados se les ha asignado un puesto de trabajo.
+Porque las áreas tienen un subconjunto de los empleados, y no pueden tener a todo el divisor que era los empleados a los que se les habia asignado puesto.
+
+Es decir, el divisor debe estar disponible para relacionarse con todos los registros del dividendo según los datos reales de la base de datos.
+
+Por eso funcionaba con los parámetros de medición  y con las marcas de computadores.
+
+TAL VEZ ESA CONSULTA PUEDE SER HECHA FACILMENTE EN TÉRMINOS DE NÚMEROS CON LAS FUNCIONES AGREGADAS
+
+EL INNER JOIN SIRVE PARA CONCATENAR ESQUEMAS

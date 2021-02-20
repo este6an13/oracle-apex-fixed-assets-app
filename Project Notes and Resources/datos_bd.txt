@@ -1,0 +1,54 @@
+4 vicerrectorías: formación, administración y financiera, investigación, extensión y proyección social
+
+administración y financiera: luz marina trejos montero
+
+4 vicerrectores
+
+5 facultades: 
+
+5 decanos
+
+23 departamentos:
+23 directores
+
+Gestión Humana y Desarrollo Organizacional: Maria Alejandra Pinzón Ramos - ADM
+
+Logística y Servicios Administrativos: Wilson Andrés Montaño Cárdenas - ADM
+
+Contabilidad y Finanzas: Carlos Alberto Bernal Tiquiza - ADM
+
+56 áreas
+56 jefes de área
+
+Departamentos de investigación, cada uno con un director. Y cada uno con una sección de laboratorios y su respectivo jefe de area.
+
+Coordinaciones ahora se llaman jefaturas.
+
+Número de salones:
+9 auditorios. confirmar junto con nombres:
+
+número de oficinas y de puestos de trabajo. mas al número de funcionarios, por favor.
+
+confirmar número de laboratorios, con auxiliares. cuales son de cada sección.
+
+18 edificios, cuatro sedes
+
+
+
+Compras y Almacén - Existencias, Ubicación, Entrega y Recibido (Paz y Salvo), Asignación (Responsables), Verficación (Revisión)
+Jefe: ???
+
+La revisión puede dar lugar a una nueva compra o a un mantenimiento
+
+Servicios Generales y de Transportes: 
+Jefe?
+
+Mantenimiento !!! Tabla? Trigger?
+
+
+Arreglar lo de funcionarios.
+
+Agregar más activos fijos.
+
+
+

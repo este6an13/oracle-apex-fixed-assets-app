@@ -1,0 +1,68 @@
+Se agregó una PK Id_Proce a la entidad intermedia PROCEDIMIENTO en el LDM.
+
+FUNCIONARIO:
+id_funcionario #
+nombre_funcionario *
+inic_contrato_funcionario *
+fin_contrato_funcionario o
+id_jefe o FK
+
+tipo_funcionario * INTEGRIDAD POR VALOR
+
+cargo_empleado o E
+id_area o E FK
+titulo_docente o D
+rol_docente o D
+id_facultad o D !!! FK
+id_programa o D !!! FK
+
+tipo_auxiliar o E
+
+E AND cargo_empleado NOT NULL AND id_area NOT NULL
+D AND titulo_docente NOT NULL AND rol_docente NOT NULL AND id_facultad NOT NULL AND id_programa NOT NULL AND tipo_auxiliar IS NULL
+
+
+Se cambia tabla AUXILIAR por tabla FUNCIONARIO, se agregan los anteriores atributos. Se modifican los demás detalles del SQL y se elimina todo lo referente a DOCENTE.
+
+Se agrega el CHK CONSTRAINT para FUNCIONARIO
+
+Se agrega el CHK CONSTRAINT para PROCEDIMIENTO
+
+LOCACIÓN:
+id_edificio # !!!
+id_locacion # !!!
+nombre_locación *
+
+tipo_locacion * INTEGRIDAD POR VALOR
+
+capacidad_salon o S
+tipo_salon oo S
+
+puestos_oficina o O
+id_area o O FK
+
+id_auxiliar o L FK
+acreditacion_laboratorio oo L
+
+Se cambia la tabla OFICINA, agregando los anteriores atributos y se eliminan las otras SALON y LABORATORIO con todas las referencias relacionadas y haciendo los cambios correspondientes en los índices y restricciones creadas.
+
+ARCOS
+
+alter table DEPARTAMENTO
+   add constraint DEPARTAMENTO_ARC_CHK
+      check (
+            (id_vicerrectoria IS NOT NULL 
+             and id_facultad IS NULL) OR
+            (id_vicerrectoria IS NULL
+             and id_facultad IS NOT NULL)
+      );
+
+
+alter table AREA
+   add constraint AREA_ARC_CHK
+      check (
+            (id_facultad IS NOT NULL 
+             and id_departamento IS NULL) OR
+            (id_facultad IS NULL
+             and id_departamento IS NOT NULL)
+      );

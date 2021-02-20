@@ -1,0 +1,13 @@
+Aumentar precisión en Precio COMPRA A 16 y en Valor ACTIVO a 16
+
+Aumentar tamaños de los Varchar de
+
+NOMBRE_FACULTAD a 60
+
+MARCA_ACTIVO A 25
+
+COMPONENTES_ACTIVO a 120
+
+COLOR_ACTIVO a 20
+
+

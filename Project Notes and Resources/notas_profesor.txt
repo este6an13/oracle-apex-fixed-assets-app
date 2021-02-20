@@ -1,0 +1,13 @@
+mismo tamaño para subtipos.
+
+no cortar los enlaces de las relaciones con texto.
+
+cruces
+
+label
+
+nombres n ¿o muy grandes
+
+el cenrtro de antención debe ser el modelo.
+
+función emparejar subtipos

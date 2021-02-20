@@ -1,0 +1,18 @@
+notas creación 2.2
+
+agregado UNIQUE constraint para ID_AUXILIAR en LOCACION
+
+el índice ya había sido creado en POWER DESIGNER para ID_AUXILIAR en LOCACION
+
+eliminados los dos índices generados para PROCEDIMIENTO como entidad intermedia que corresponden a las dos FK: id_activo, id_auxiliar
+
+junto con sus drop index
+
+
+cambios en tipos de datos:
+VALOR_COMPRA NUMBER(16, 2)
+VALOR_ACTIVO NUMBER(16, 2)
+MARCA_ACTIVO VARCHAR2(25)
+COLOR_ACTIVO VARCHAR2(20)
+COMPONENTES_ACTIVO VARCHAR2(120)
+NOMBRE_FACULTAS VARCHAR2(60)

@@ -1,0 +1,684 @@
+prompt --application/pages/page_00008
+begin
+--   Manifest
+--     PAGE: 00008
+--   Manifest End
+wwv_flow_api.component_begin (
+ p_version_yyyy_mm_dd=>'2020.03.31'
+,p_release=>'20.1.0.00.13'
+,p_default_workspace_id=>4191826468060857088
+,p_default_application_id=>11918
+,p_default_id_offset=>0
+,p_default_owner=>'DIQUINTERO'
+);
+wwv_flow_api.create_page(
+ p_id=>8
+,p_user_interface_id=>wwv_flow_api.id(30893740287884777925)
+,p_name=>unistr('Gestor Log\00EDstico de Activos')
+,p_alias=>'LOCALIZADOR-DE-ACTIVOS'
+,p_step_title=>unistr('Gestor Log\00EDstico de Activos')
+,p_autocomplete_on_off=>'OFF'
+,p_page_template_options=>'#DEFAULT#'
+,p_last_updated_by=>'DIQUINTERO@UNAL.EDU.CO'
+,p_last_upd_yyyymmddhh24miss=>'20200722053309'
+);
+wwv_flow_api.create_page_plug(
+ p_id=>wwv_flow_api.id(30998125438559787236)
+,p_plug_name=>'Localizador de Activos'
+,p_region_template_options=>'#DEFAULT#'
+,p_component_template_options=>'#DEFAULT#'
+,p_plug_template=>wwv_flow_api.id(30893553664381777852)
+,p_plug_display_sequence=>10
+,p_include_in_reg_disp_sel_yn=>'Y'
+,p_plug_display_point=>'BODY'
+,p_query_type=>'SQL'
+,p_plug_source=>'SELECT ID_ACTIVO, NOMBRE_ACTIVO, ID_LOCACION, NOMBRE_LOCACION, NOMBRE_EDIFICIO, NOMBRE_SEDE, REFERENCIA_ACTIVO, MARCA_ACTIVO, MATERIAL_ACTIVO, COLOR_ACTIVO, TAMANO_ACTIVO, COMPONENTES_ACTIVO FROM ACTIVO NATURAL JOIN LOCACION NATURAL JOIN EDIFICIO NAT'
+||'URAL JOIN SEDE'
+,p_plug_source_type=>'NATIVE_IR'
+,p_plug_query_options=>'DERIVED_REPORT_COLUMNS'
+,p_prn_content_disposition=>'ATTACHMENT'
+,p_prn_document_header=>'APEX'
+,p_prn_units=>'MILLIMETERS'
+,p_prn_paper_size=>'A4'
+,p_prn_width=>297
+,p_prn_height=>210
+,p_prn_orientation=>'HORIZONTAL'
+,p_prn_page_header=>'Localizador de Activos'
+,p_prn_page_header_font_color=>'#000000'
+,p_prn_page_header_font_family=>'Helvetica'
+,p_prn_page_header_font_weight=>'normal'
+,p_prn_page_header_font_size=>'12'
+,p_prn_page_footer_font_color=>'#000000'
+,p_prn_page_footer_font_family=>'Helvetica'
+,p_prn_page_footer_font_weight=>'normal'
+,p_prn_page_footer_font_size=>'12'
+,p_prn_header_bg_color=>'#EEEEEE'
+,p_prn_header_font_color=>'#000000'
+,p_prn_header_font_family=>'Helvetica'
+,p_prn_header_font_weight=>'bold'
+,p_prn_header_font_size=>'10'
+,p_prn_body_bg_color=>'#FFFFFF'
+,p_prn_body_font_color=>'#000000'
+,p_prn_body_font_family=>'Helvetica'
+,p_prn_body_font_weight=>'normal'
+,p_prn_body_font_size=>'10'
+,p_prn_border_width=>.5
+,p_prn_page_header_alignment=>'CENTER'
+,p_prn_page_footer_alignment=>'CENTER'
+,p_prn_border_color=>'#666666'
+);
+wwv_flow_api.create_worksheet(
+ p_id=>wwv_flow_api.id(30998125501395787237)
+,p_max_row_count=>'1000000'
+,p_pagination_type=>'ROWS_X_TO_Y'
+,p_pagination_display_pos=>'BOTTOM_RIGHT'
+,p_report_list_mode=>'TABS'
+,p_show_detail_link=>'N'
+,p_show_notify=>'Y'
+,p_download_formats=>'CSV:HTML:EMAIL:XLS:PDF:RTF'
+,p_owner=>'DIQUINTERO@UNAL.EDU.CO'
+,p_internal_uid=>30998125501395787237
+);
+wwv_flow_api.create_worksheet_column(
+ p_id=>wwv_flow_api.id(30998125648142787238)
+,p_db_column_name=>'ID_ACTIVO'
+,p_display_order=>10
+,p_column_identifier=>'A'
+,p_column_label=>'Id Activo'
+,p_column_type=>'NUMBER'
+,p_column_alignment=>'RIGHT'
+);
+wwv_flow_api.create_worksheet_column(
+ p_id=>wwv_flow_api.id(30998125745589787239)
+,p_db_column_name=>'NOMBRE_ACTIVO'
+,p_display_order=>20
+,p_column_identifier=>'B'
+,p_column_label=>'Nombre Activo'
+,p_column_type=>'STRING'
+);
+wwv_flow_api.create_worksheet_column(
+ p_id=>wwv_flow_api.id(30998125814039787240)
+,p_db_column_name=>'ID_LOCACION'
+,p_display_order=>30
+,p_column_identifier=>'C'
+,p_column_label=>'Id Locacion'
+,p_column_type=>'NUMBER'
+,p_column_alignment=>'RIGHT'
+);
+wwv_flow_api.create_worksheet_column(
+ p_id=>wwv_flow_api.id(30998125980769787241)
+,p_db_column_name=>'NOMBRE_LOCACION'
+,p_display_order=>40
+,p_column_identifier=>'D'
+,p_column_label=>'Nombre Locacion'
+,p_column_type=>'STRING'
+);
+wwv_flow_api.create_worksheet_column(
+ p_id=>wwv_flow_api.id(30998126022757787242)
+,p_db_column_name=>'NOMBRE_EDIFICIO'
+,p_display_order=>50
+,p_column_identifier=>'E'
+,p_column_label=>'Nombre Edificio'
+,p_column_type=>'STRING'
+);
+wwv_flow_api.create_worksheet_column(
+ p_id=>wwv_flow_api.id(30998126145645787243)
+,p_db_column_name=>'NOMBRE_SEDE'
+,p_display_order=>60
+,p_column_identifier=>'F'
+,p_column_label=>'Nombre Sede'
+,p_column_type=>'STRING'
+);
+wwv_flow_api.create_worksheet_column(
+ p_id=>wwv_flow_api.id(30998126298415787244)
+,p_db_column_name=>'REFERENCIA_ACTIVO'
+,p_display_order=>70
+,p_column_identifier=>'G'
+,p_column_label=>'Referencia Activo'
+,p_column_type=>'STRING'
+);
+wwv_flow_api.create_worksheet_column(
+ p_id=>wwv_flow_api.id(30998126303216787245)
+,p_db_column_name=>'MARCA_ACTIVO'
+,p_display_order=>80
+,p_column_identifier=>'H'
+,p_column_label=>'Marca Activo'
+,p_column_type=>'STRING'
+);
+wwv_flow_api.create_worksheet_column(
+ p_id=>wwv_flow_api.id(30998126402650787246)
+,p_db_column_name=>'MATERIAL_ACTIVO'
+,p_display_order=>90
+,p_column_identifier=>'I'
+,p_column_label=>'Material Activo'
+,p_column_type=>'STRING'
+);
+wwv_flow_api.create_worksheet_column(
+ p_id=>wwv_flow_api.id(30998126562544787247)
+,p_db_column_name=>'COLOR_ACTIVO'
+,p_display_order=>100
+,p_column_identifier=>'J'
+,p_column_label=>'Color Activo'
+,p_column_type=>'STRING'
+);
+wwv_flow_api.create_worksheet_column(
+ p_id=>wwv_flow_api.id(30998126670844787248)
+,p_db_column_name=>'TAMANO_ACTIVO'
+,p_display_order=>110
+,p_column_identifier=>'K'
+,p_column_label=>'Tamano Activo'
+,p_column_type=>'STRING'
+);
+wwv_flow_api.create_worksheet_column(
+ p_id=>wwv_flow_api.id(30998126777667787249)
+,p_db_column_name=>'COMPONENTES_ACTIVO'
+,p_display_order=>120
+,p_column_identifier=>'L'
+,p_column_label=>'Componentes Activo'
+,p_column_type=>'STRING'
+);
+wwv_flow_api.create_worksheet_rpt(
+ p_id=>wwv_flow_api.id(31038328269871467853)
+,p_application_user=>'APXWS_DEFAULT'
+,p_report_seq=>10
+,p_report_alias=>'310383283'
+,p_status=>'PUBLIC'
+,p_is_default=>'Y'
+,p_report_columns=>'ID_ACTIVO:NOMBRE_ACTIVO:ID_LOCACION:NOMBRE_LOCACION:NOMBRE_EDIFICIO:NOMBRE_SEDE:REFERENCIA_ACTIVO:MARCA_ACTIVO:MATERIAL_ACTIVO:COLOR_ACTIVO:TAMANO_ACTIVO:COMPONENTES_ACTIVO'
+);
+wwv_flow_api.create_page_plug(
+ p_id=>wwv_flow_api.id(31036883423489289499)
+,p_plug_name=>unistr('Ruta de Navegaci\00F3n')
+,p_region_template_options=>'#DEFAULT#:t-BreadcrumbRegion--useBreadcrumbTitle'
+,p_component_template_options=>'#DEFAULT#'
+,p_plug_template=>wwv_flow_api.id(30893564999723777859)
+,p_plug_display_sequence=>10
+,p_plug_display_point=>'REGION_POSITION_01'
+,p_menu_id=>wwv_flow_api.id(30893501578071777809)
+,p_plug_source_type=>'NATIVE_BREADCRUMB'
+,p_menu_template_id=>wwv_flow_api.id(30893719196765777907)
+);
+wwv_flow_api.create_page_plug(
+ p_id=>wwv_flow_api.id(31038692869303803706)
+,p_plug_name=>'Sillas Giratorias Libres o Faltantes por Edificio '
+,p_region_template_options=>'#DEFAULT#:t-Region--scrollBody'
+,p_plug_template=>wwv_flow_api.id(30893555508399777853)
+,p_plug_display_sequence=>20
+,p_include_in_reg_disp_sel_yn=>'Y'
+,p_plug_grid_column_span=>6
+,p_plug_display_column=>1
+,p_plug_display_point=>'BODY'
+,p_plug_source=>unistr('N\00FAmero de sillas libres o faltantes por edificio seg\00FAn el n\00FAmero de empleados que trabajan en cierto edificio')
+,p_plug_query_options=>'DERIVED_REPORT_COLUMNS'
+,p_attribute_01=>'N'
+,p_attribute_02=>'HTML'
+);
+wwv_flow_api.create_page_plug(
+ p_id=>wwv_flow_api.id(30998126862704787250)
+,p_plug_name=>'Sillas Giratorias Libres o Faltantes'
+,p_parent_plug_id=>wwv_flow_api.id(31038692869303803706)
+,p_region_template_options=>'#DEFAULT#'
+,p_component_template_options=>'#DEFAULT#'
+,p_plug_template=>wwv_flow_api.id(30893553664381777852)
+,p_plug_display_sequence=>20
+,p_plug_new_grid_row=>false
+,p_plug_new_grid_column=>false
+,p_plug_display_point=>'BODY'
+,p_query_type=>'SQL'
+,p_plug_source=>wwv_flow_string.join(wwv_flow_t_varchar2(
+'WITH sillas_por_edificio AS (SELECT ID_EDIFICIO, NOMBRE_SEDE, NOMBRE_EDIFICIO, COUNT(*) SILLAS FROM ACTIVO NATURAL JOIN LOCACION NATURAL JOIN EDIFICIO NATURAL JOIN SEDE WHERE NOMBRE_ACTIVO = ''Silla Giratoria'' GROUP BY ID_EDIFICIO, NOMBRE_SEDE, NOMBRE'
+||'_EDIFICIO),',
+'     personas_por_edificio AS (SELECT getEdificioByOficina(getOficinaByFuncionario(ID_FUNCIONARIO)) EDIFICIO, COUNT(*) PERSONAS FROM FUNCIONARIO WHERE ID_AREA IS NOT NULL GROUP BY getEdificioByOficina(getOficinaByFuncionario(ID_FUNCIONARIO)))',
+'SELECT ID_EDIFICIO, NOMBRE_SEDE, NOMBRE_EDIFICIO, SILLAS, PERSONAS, (SILLAS-PERSONAS) LIBRES FROM sillas_por_edificio SPE INNER JOIN personas_por_edificio PPE ON SPE.ID_EDIFICIO = PPE.EDIFICIO'))
+,p_plug_source_type=>'NATIVE_IR'
+,p_plug_query_options=>'DERIVED_REPORT_COLUMNS'
+,p_prn_content_disposition=>'ATTACHMENT'
+,p_prn_document_header=>'APEX'
+,p_prn_units=>'MILLIMETERS'
+,p_prn_paper_size=>'A4'
+,p_prn_width=>297
+,p_prn_height=>210
+,p_prn_orientation=>'HORIZONTAL'
+,p_prn_page_header=>'Sillas Giratorias Libres o Faltantes'
+,p_prn_page_header_font_color=>'#000000'
+,p_prn_page_header_font_family=>'Helvetica'
+,p_prn_page_header_font_weight=>'normal'
+,p_prn_page_header_font_size=>'12'
+,p_prn_page_footer_font_color=>'#000000'
+,p_prn_page_footer_font_family=>'Helvetica'
+,p_prn_page_footer_font_weight=>'normal'
+,p_prn_page_footer_font_size=>'12'
+,p_prn_header_bg_color=>'#EEEEEE'
+,p_prn_header_font_color=>'#000000'
+,p_prn_header_font_family=>'Helvetica'
+,p_prn_header_font_weight=>'bold'
+,p_prn_header_font_size=>'10'
+,p_prn_body_bg_color=>'#FFFFFF'
+,p_prn_body_font_color=>'#000000'
+,p_prn_body_font_family=>'Helvetica'
+,p_prn_body_font_weight=>'normal'
+,p_prn_body_font_size=>'10'
+,p_prn_border_width=>.5
+,p_prn_page_header_alignment=>'CENTER'
+,p_prn_page_footer_alignment=>'CENTER'
+,p_prn_border_color=>'#666666'
+);
+wwv_flow_api.create_worksheet(
+ p_id=>wwv_flow_api.id(31038692399650803701)
+,p_max_row_count=>'1000000'
+,p_pagination_type=>'ROWS_X_TO_Y'
+,p_pagination_display_pos=>'BOTTOM_RIGHT'
+,p_report_list_mode=>'TABS'
+,p_show_detail_link=>'N'
+,p_show_notify=>'Y'
+,p_download_formats=>'CSV:HTML:EMAIL:XLS:PDF:RTF'
+,p_owner=>'DIQUINTERO@UNAL.EDU.CO'
+,p_internal_uid=>31038692399650803701
+);
+wwv_flow_api.create_worksheet_column(
+ p_id=>wwv_flow_api.id(31038692771660803705)
+,p_db_column_name=>'LIBRES'
+,p_display_order=>40
+,p_column_identifier=>'D'
+,p_column_label=>'Libres'
+,p_column_type=>'NUMBER'
+,p_column_alignment=>'RIGHT'
+);
+wwv_flow_api.create_worksheet_column(
+ p_id=>wwv_flow_api.id(31038694160482803719)
+,p_db_column_name=>'ID_EDIFICIO'
+,p_display_order=>50
+,p_column_identifier=>'F'
+,p_column_label=>'Id Edificio'
+,p_column_type=>'NUMBER'
+,p_column_alignment=>'RIGHT'
+);
+wwv_flow_api.create_worksheet_column(
+ p_id=>wwv_flow_api.id(31038694216760803720)
+,p_db_column_name=>'NOMBRE_SEDE'
+,p_display_order=>60
+,p_column_identifier=>'G'
+,p_column_label=>'Nombre Sede'
+,p_column_type=>'STRING'
+);
+wwv_flow_api.create_worksheet_column(
+ p_id=>wwv_flow_api.id(31038694387436803721)
+,p_db_column_name=>'NOMBRE_EDIFICIO'
+,p_display_order=>70
+,p_column_identifier=>'H'
+,p_column_label=>'Nombre Edificio'
+,p_column_type=>'STRING'
+);
+wwv_flow_api.create_worksheet_column(
+ p_id=>wwv_flow_api.id(31038694499584803722)
+,p_db_column_name=>'SILLAS'
+,p_display_order=>80
+,p_column_identifier=>'I'
+,p_column_label=>'Sillas'
+,p_column_type=>'NUMBER'
+,p_column_alignment=>'RIGHT'
+);
+wwv_flow_api.create_worksheet_column(
+ p_id=>wwv_flow_api.id(31038694501400803723)
+,p_db_column_name=>'PERSONAS'
+,p_display_order=>90
+,p_column_identifier=>'J'
+,p_column_label=>'Personas'
+,p_column_type=>'NUMBER'
+,p_column_alignment=>'RIGHT'
+);
+wwv_flow_api.create_worksheet_rpt(
+ p_id=>wwv_flow_api.id(31038328876313467865)
+,p_application_user=>'APXWS_DEFAULT'
+,p_report_seq=>10
+,p_report_alias=>'310383289'
+,p_status=>'PUBLIC'
+,p_is_default=>'Y'
+,p_report_columns=>'LIBRES:ID_EDIFICIO:NOMBRE_SEDE:NOMBRE_EDIFICIO:SILLAS:PERSONAS'
+);
+wwv_flow_api.create_page_plug(
+ p_id=>wwv_flow_api.id(31056133292051831021)
+,p_plug_name=>unistr('Salas de C\00F3mputo con fallas')
+,p_region_template_options=>'#DEFAULT#:t-Region--scrollBody'
+,p_plug_template=>wwv_flow_api.id(30893555508399777853)
+,p_plug_display_sequence=>40
+,p_include_in_reg_disp_sel_yn=>'Y'
+,p_plug_grid_column_span=>6
+,p_plug_display_column=>1
+,p_plug_display_point=>'BODY'
+,p_plug_source=>unistr('Salas de C\00F3mputo que presentan alguna falla t\00E9cnica en sus equipos')
+,p_plug_query_options=>'DERIVED_REPORT_COLUMNS'
+,p_attribute_01=>'N'
+,p_attribute_02=>'HTML'
+);
+wwv_flow_api.create_page_plug(
+ p_id=>wwv_flow_api.id(31056133360218831022)
+,p_plug_name=>unistr('Salas de C\00F3mputo con fallas')
+,p_parent_plug_id=>wwv_flow_api.id(31056133292051831021)
+,p_region_template_options=>'#DEFAULT#'
+,p_component_template_options=>'#DEFAULT#'
+,p_plug_template=>wwv_flow_api.id(30893553664381777852)
+,p_plug_display_sequence=>10
+,p_plug_display_point=>'BODY'
+,p_query_type=>'SQL'
+,p_plug_source=>wwv_flow_string.join(wwv_flow_t_varchar2(
+'WITH locaciones AS (SELECT * FROM LOCACION NATURAL JOIN EDIFICIO NATURAL JOIN SEDE)',
+'SELECT locaciones.NOMBRE_SEDE, locaciones.NOMBRE_EDIFICIO, locaciones.NOMBRE_LOCACION',
+'FROM (SELECT * FROM ACTIVO NATURAL JOIN PROCEDIMIENTO NATURAL JOIN (SELECT ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_SALON FROM LOCACION) WHERE ESTADO_REVISION IN (''M'', ''R'') AND TIPO_SALON = ''COM'') R',
+'INNER JOIN locaciones ON R.ID_EDIFICIO = locaciones.ID_EDIFICIO AND R.ID_LOCACION = locaciones.ID_LOCACION'))
+,p_plug_source_type=>'NATIVE_IR'
+,p_plug_query_options=>'DERIVED_REPORT_COLUMNS'
+,p_prn_content_disposition=>'ATTACHMENT'
+,p_prn_document_header=>'APEX'
+,p_prn_units=>'MILLIMETERS'
+,p_prn_paper_size=>'A4'
+,p_prn_width=>297
+,p_prn_height=>210
+,p_prn_orientation=>'HORIZONTAL'
+,p_prn_page_header=>unistr('Salas de C\00F3mputo con fallas')
+,p_prn_page_header_font_color=>'#000000'
+,p_prn_page_header_font_family=>'Helvetica'
+,p_prn_page_header_font_weight=>'normal'
+,p_prn_page_header_font_size=>'12'
+,p_prn_page_footer_font_color=>'#000000'
+,p_prn_page_footer_font_family=>'Helvetica'
+,p_prn_page_footer_font_weight=>'normal'
+,p_prn_page_footer_font_size=>'12'
+,p_prn_header_bg_color=>'#EEEEEE'
+,p_prn_header_font_color=>'#000000'
+,p_prn_header_font_family=>'Helvetica'
+,p_prn_header_font_weight=>'bold'
+,p_prn_header_font_size=>'10'
+,p_prn_body_bg_color=>'#FFFFFF'
+,p_prn_body_font_color=>'#000000'
+,p_prn_body_font_family=>'Helvetica'
+,p_prn_body_font_weight=>'normal'
+,p_prn_body_font_size=>'10'
+,p_prn_border_width=>.5
+,p_prn_page_header_alignment=>'CENTER'
+,p_prn_page_footer_alignment=>'CENTER'
+,p_prn_border_color=>'#666666'
+);
+wwv_flow_api.create_worksheet(
+ p_id=>wwv_flow_api.id(31056133413230831023)
+,p_max_row_count=>'1000000'
+,p_pagination_type=>'ROWS_X_TO_Y'
+,p_pagination_display_pos=>'BOTTOM_RIGHT'
+,p_report_list_mode=>'TABS'
+,p_show_detail_link=>'N'
+,p_show_notify=>'Y'
+,p_download_formats=>'CSV:HTML:EMAIL:XLS:PDF:RTF'
+,p_owner=>'DIQUINTERO@UNAL.EDU.CO'
+,p_internal_uid=>31056133413230831023
+);
+wwv_flow_api.create_worksheet_column(
+ p_id=>wwv_flow_api.id(31056133500031831024)
+,p_db_column_name=>'NOMBRE_SEDE'
+,p_display_order=>10
+,p_column_identifier=>'A'
+,p_column_label=>'Nombre Sede'
+,p_column_type=>'STRING'
+);
+wwv_flow_api.create_worksheet_column(
+ p_id=>wwv_flow_api.id(31056133658160831025)
+,p_db_column_name=>'NOMBRE_EDIFICIO'
+,p_display_order=>20
+,p_column_identifier=>'B'
+,p_column_label=>'Nombre Edificio'
+,p_column_type=>'STRING'
+);
+wwv_flow_api.create_worksheet_column(
+ p_id=>wwv_flow_api.id(31056133733491831026)
+,p_db_column_name=>'NOMBRE_LOCACION'
+,p_display_order=>30
+,p_column_identifier=>'C'
+,p_column_label=>'Nombre Locacion'
+,p_column_type=>'STRING'
+);
+wwv_flow_api.create_worksheet_rpt(
+ p_id=>wwv_flow_api.id(31059332187536711787)
+,p_application_user=>'APXWS_DEFAULT'
+,p_report_seq=>10
+,p_report_alias=>'310593322'
+,p_status=>'PUBLIC'
+,p_is_default=>'Y'
+,p_report_columns=>'NOMBRE_SEDE:NOMBRE_EDIFICIO:NOMBRE_LOCACION'
+);
+wwv_flow_api.create_page_plug(
+ p_id=>wwv_flow_api.id(31056133820654831027)
+,p_plug_name=>unistr('Auditorios con fallas t\00E9cnicas')
+,p_region_template_options=>'#DEFAULT#:t-Region--scrollBody'
+,p_plug_template=>wwv_flow_api.id(30893555508399777853)
+,p_plug_display_sequence=>50
+,p_include_in_reg_disp_sel_yn=>'Y'
+,p_plug_new_grid_row=>false
+,p_plug_grid_column_span=>6
+,p_plug_display_point=>'BODY'
+,p_plug_source=>unistr('Salas de C\00F3mputo que presentan alguna falla t\00E9cnica en sus equipos')
+,p_plug_query_options=>'DERIVED_REPORT_COLUMNS'
+,p_attribute_01=>'N'
+,p_attribute_02=>'HTML'
+);
+wwv_flow_api.create_page_plug(
+ p_id=>wwv_flow_api.id(31056133978388831028)
+,p_plug_name=>unistr('Auditorios con fallas t\00E9cnicas')
+,p_parent_plug_id=>wwv_flow_api.id(31056133820654831027)
+,p_region_template_options=>'#DEFAULT#'
+,p_component_template_options=>'#DEFAULT#'
+,p_plug_template=>wwv_flow_api.id(30893553664381777852)
+,p_plug_display_sequence=>10
+,p_plug_display_point=>'BODY'
+,p_query_type=>'SQL'
+,p_plug_source=>wwv_flow_string.join(wwv_flow_t_varchar2(
+'WITH locaciones AS (SELECT * FROM LOCACION NATURAL JOIN EDIFICIO NATURAL JOIN SEDE)',
+'SELECT locaciones.NOMBRE_SEDE, locaciones.NOMBRE_EDIFICIO, locaciones.NOMBRE_LOCACION',
+'FROM (SELECT * FROM ACTIVO NATURAL JOIN PROCEDIMIENTO NATURAL JOIN (SELECT ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_SALON FROM LOCACION) WHERE ESTADO_REVISION IN (''M'', ''R'') AND TIPO_SALON = ''AUD'') R',
+'INNER JOIN locaciones ON R.ID_EDIFICIO = locaciones.ID_EDIFICIO AND R.ID_LOCACION = locaciones.ID_LOCACION',
+'',
+''))
+,p_plug_source_type=>'NATIVE_IR'
+,p_plug_query_options=>'DERIVED_REPORT_COLUMNS'
+,p_prn_content_disposition=>'ATTACHMENT'
+,p_prn_document_header=>'APEX'
+,p_prn_units=>'MILLIMETERS'
+,p_prn_paper_size=>'A4'
+,p_prn_width=>297
+,p_prn_height=>210
+,p_prn_orientation=>'HORIZONTAL'
+,p_prn_page_header=>unistr('Auditorios con fallas t\00E9cnicas')
+,p_prn_page_header_font_color=>'#000000'
+,p_prn_page_header_font_family=>'Helvetica'
+,p_prn_page_header_font_weight=>'normal'
+,p_prn_page_header_font_size=>'12'
+,p_prn_page_footer_font_color=>'#000000'
+,p_prn_page_footer_font_family=>'Helvetica'
+,p_prn_page_footer_font_weight=>'normal'
+,p_prn_page_footer_font_size=>'12'
+,p_prn_header_bg_color=>'#EEEEEE'
+,p_prn_header_font_color=>'#000000'
+,p_prn_header_font_family=>'Helvetica'
+,p_prn_header_font_weight=>'bold'
+,p_prn_header_font_size=>'10'
+,p_prn_body_bg_color=>'#FFFFFF'
+,p_prn_body_font_color=>'#000000'
+,p_prn_body_font_family=>'Helvetica'
+,p_prn_body_font_weight=>'normal'
+,p_prn_body_font_size=>'10'
+,p_prn_border_width=>.5
+,p_prn_page_header_alignment=>'CENTER'
+,p_prn_page_footer_alignment=>'CENTER'
+,p_prn_border_color=>'#666666'
+);
+wwv_flow_api.create_worksheet(
+ p_id=>wwv_flow_api.id(31056134075143831029)
+,p_max_row_count=>'1000000'
+,p_pagination_type=>'ROWS_X_TO_Y'
+,p_pagination_display_pos=>'BOTTOM_RIGHT'
+,p_report_list_mode=>'TABS'
+,p_show_detail_link=>'N'
+,p_show_notify=>'Y'
+,p_download_formats=>'CSV:HTML:EMAIL:XLS:PDF:RTF'
+,p_owner=>'DIQUINTERO@UNAL.EDU.CO'
+,p_internal_uid=>31056134075143831029
+);
+wwv_flow_api.create_worksheet_column(
+ p_id=>wwv_flow_api.id(31056134107224831030)
+,p_db_column_name=>'NOMBRE_SEDE'
+,p_display_order=>10
+,p_column_identifier=>'A'
+,p_column_label=>'Nombre Sede'
+,p_column_type=>'STRING'
+);
+wwv_flow_api.create_worksheet_column(
+ p_id=>wwv_flow_api.id(31056134273683831031)
+,p_db_column_name=>'NOMBRE_EDIFICIO'
+,p_display_order=>20
+,p_column_identifier=>'B'
+,p_column_label=>'Nombre Edificio'
+,p_column_type=>'STRING'
+);
+wwv_flow_api.create_worksheet_column(
+ p_id=>wwv_flow_api.id(31056134369260831032)
+,p_db_column_name=>'NOMBRE_LOCACION'
+,p_display_order=>30
+,p_column_identifier=>'C'
+,p_column_label=>'Nombre Locacion'
+,p_column_type=>'STRING'
+);
+wwv_flow_api.create_worksheet_rpt(
+ p_id=>wwv_flow_api.id(31059653912598741383)
+,p_application_user=>'APXWS_DEFAULT'
+,p_report_seq=>10
+,p_report_alias=>'310596540'
+,p_status=>'PUBLIC'
+,p_is_default=>'Y'
+,p_report_columns=>'NOMBRE_SEDE:NOMBRE_EDIFICIO:NOMBRE_LOCACION'
+);
+wwv_flow_api.create_page_plug(
+ p_id=>wwv_flow_api.id(31056134414624831033)
+,p_plug_name=>'Llaves de Laboratorios'
+,p_region_template_options=>'#DEFAULT#:t-Region--scrollBody'
+,p_plug_template=>wwv_flow_api.id(30893555508399777853)
+,p_plug_display_sequence=>30
+,p_include_in_reg_disp_sel_yn=>'Y'
+,p_plug_new_grid_row=>false
+,p_plug_grid_column_span=>6
+,p_plug_display_point=>'BODY'
+,p_plug_source=>'Se presenta el auxiliar que tiene la llave de cada laboratorio.'
+,p_plug_query_options=>'DERIVED_REPORT_COLUMNS'
+,p_attribute_01=>'N'
+,p_attribute_02=>'HTML'
+);
+wwv_flow_api.create_page_plug(
+ p_id=>wwv_flow_api.id(31056134527275831034)
+,p_plug_name=>'Llaves de Laboratorios'
+,p_parent_plug_id=>wwv_flow_api.id(31056134414624831033)
+,p_region_template_options=>'#DEFAULT#'
+,p_component_template_options=>'#DEFAULT#'
+,p_plug_template=>wwv_flow_api.id(30893553664381777852)
+,p_plug_display_sequence=>10
+,p_plug_new_grid_row=>false
+,p_plug_new_grid_column=>false
+,p_plug_display_point=>'BODY'
+,p_query_type=>'SQL'
+,p_plug_source=>'SELECT ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION FROM FUNCIONARIO F INNER JOIN LOCACION L ON F.ID_FUNCIONARIO = L.ID_AUXILIAR'
+,p_plug_source_type=>'NATIVE_IR'
+,p_plug_query_options=>'DERIVED_REPORT_COLUMNS'
+,p_prn_content_disposition=>'ATTACHMENT'
+,p_prn_document_header=>'APEX'
+,p_prn_units=>'MILLIMETERS'
+,p_prn_paper_size=>'A4'
+,p_prn_width=>297
+,p_prn_height=>210
+,p_prn_orientation=>'HORIZONTAL'
+,p_prn_page_header=>'Llaves de Laboratorios'
+,p_prn_page_header_font_color=>'#000000'
+,p_prn_page_header_font_family=>'Helvetica'
+,p_prn_page_header_font_weight=>'normal'
+,p_prn_page_header_font_size=>'12'
+,p_prn_page_footer_font_color=>'#000000'
+,p_prn_page_footer_font_family=>'Helvetica'
+,p_prn_page_footer_font_weight=>'normal'
+,p_prn_page_footer_font_size=>'12'
+,p_prn_header_bg_color=>'#EEEEEE'
+,p_prn_header_font_color=>'#000000'
+,p_prn_header_font_family=>'Helvetica'
+,p_prn_header_font_weight=>'bold'
+,p_prn_header_font_size=>'10'
+,p_prn_body_bg_color=>'#FFFFFF'
+,p_prn_body_font_color=>'#000000'
+,p_prn_body_font_family=>'Helvetica'
+,p_prn_body_font_weight=>'normal'
+,p_prn_body_font_size=>'10'
+,p_prn_border_width=>.5
+,p_prn_page_header_alignment=>'CENTER'
+,p_prn_page_footer_alignment=>'CENTER'
+,p_prn_border_color=>'#666666'
+);
+wwv_flow_api.create_worksheet(
+ p_id=>wwv_flow_api.id(31056134645482831035)
+,p_max_row_count=>'1000000'
+,p_pagination_type=>'ROWS_X_TO_Y'
+,p_pagination_display_pos=>'BOTTOM_RIGHT'
+,p_report_list_mode=>'TABS'
+,p_show_detail_link=>'N'
+,p_show_notify=>'Y'
+,p_download_formats=>'CSV:HTML:EMAIL:XLS:PDF:RTF'
+,p_owner=>'DIQUINTERO@UNAL.EDU.CO'
+,p_internal_uid=>31056134645482831035
+);
+wwv_flow_api.create_worksheet_column(
+ p_id=>wwv_flow_api.id(31056134884852831037)
+,p_db_column_name=>'ID_EDIFICIO'
+,p_display_order=>20
+,p_column_identifier=>'A'
+,p_column_label=>'Id Edificio'
+,p_column_type=>'NUMBER'
+,p_column_alignment=>'RIGHT'
+);
+wwv_flow_api.create_worksheet_column(
+ p_id=>wwv_flow_api.id(31056135354504831042)
+,p_db_column_name=>'ID_FUNCIONARIO'
+,p_display_order=>30
+,p_column_identifier=>'B'
+,p_column_label=>'Id Funcionario'
+,p_column_type=>'NUMBER'
+,p_column_alignment=>'RIGHT'
+);
+wwv_flow_api.create_worksheet_column(
+ p_id=>wwv_flow_api.id(31056135452187831043)
+,p_db_column_name=>'NOMBRE_FUNCIONARIO'
+,p_display_order=>40
+,p_column_identifier=>'C'
+,p_column_label=>'Nombre Funcionario'
+,p_column_type=>'STRING'
+);
+wwv_flow_api.create_worksheet_column(
+ p_id=>wwv_flow_api.id(31056135523993831044)
+,p_db_column_name=>'ID_LOCACION'
+,p_display_order=>50
+,p_column_identifier=>'D'
+,p_column_label=>'Id Locacion'
+,p_column_type=>'NUMBER'
+,p_column_alignment=>'RIGHT'
+);
+wwv_flow_api.create_worksheet_column(
+ p_id=>wwv_flow_api.id(31056135680758831045)
+,p_db_column_name=>'NOMBRE_LOCACION'
+,p_display_order=>60
+,p_column_identifier=>'E'
+,p_column_label=>'Nombre Locacion'
+,p_column_type=>'STRING'
+);
+wwv_flow_api.create_worksheet_rpt(
+ p_id=>wwv_flow_api.id(31061590585396361894)
+,p_application_user=>'APXWS_DEFAULT'
+,p_report_seq=>10
+,p_report_alias=>'310615906'
+,p_status=>'PUBLIC'
+,p_is_default=>'Y'
+,p_report_columns=>'ID_EDIFICIO:ID_FUNCIONARIO:NOMBRE_FUNCIONARIO:ID_LOCACION:NOMBRE_LOCACION'
+);
+wwv_flow_api.component_end;
+end;
+/

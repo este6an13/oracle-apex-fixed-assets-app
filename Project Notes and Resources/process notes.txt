@@ -1,0 +1,6 @@
+DECLARE
+    result LONG;
+BEGIN
+    result := genFactura(TO_NUMBER(:ID_COM));
+    RETURN result;
+END;

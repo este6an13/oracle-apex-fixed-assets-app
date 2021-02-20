@@ -1,0 +1,23 @@
+
+Trigger: Entrega agregar activo a Funcionario
+Paz y salvo, retirar activo de funcionario
+Revison 'M' Cita de mantenimiento asignada a una auxiliar de man
+Garantizar que no se entregue un activo que ya está asignado a otra persona a otro empleado.
+
+CREATE SEQUENCE procedimiento_secuencia;
+
+CREATE OR REPLACE TRIGGER procedimiento_on_insert
+  BEFORE INSERT ON procedimiento
+  FOR EACH ROW
+BEGIN
+  SELECT procedimiento_secuencia.nextval
+  INTO :new.id_proce
+  FROM dual;
+END;
+
+
+
+
+
+https://chartio.com/resources/tutorials/how-to-define-an-auto-increment-primary-key-in-oracle/
+

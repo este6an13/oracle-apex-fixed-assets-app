@@ -1,0 +1,6 @@
+PROCEDIMIENTO O EVENTO ASOCIADO A INTERFAZ
+
+TRIGGER BEFORE para verificar que un ACTIVO a ENTREGAR no esté ya asignado a alguien.
+
+TRIGGER AFTER para asignar id_funcionario a ACTIVO entregado.
+

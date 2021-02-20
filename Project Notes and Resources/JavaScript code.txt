@@ -1,0 +1,37 @@
+HTP.p ('<a download="Subject_Info.txt" id="downloadlink"  ><b>Download</b></a> <br> <br> <br>');  
+
+DECLARE
+    nulo EXCEPTION;
+    ID NUMBER;
+BEGIN
+ID := :ID_COM;
+HTP.p ('<span id="TEST_ID">');      
+      IF ID IS NULL THEN
+          RAISE nulo;
+      END IF;
+	  HTP.p(genFactura(TO_NUMBER(ID)));
+      HTP.p ('</span>');
+      EXCEPTION
+      WHEN nulo THEN
+          RETURN;
+END;
+
+
+
+(function () {
+    var ID = :ID_COM;
+    var textFile = null,
+    makeTextFile = function (text) {
+    var data = new Blob([text], {type: 'text/plain'});
+    if (textFile !== null) {
+    window.URL.revokeObjectURL(textFile);}
+    textFile = window.URL.createObjectURL(data);
+    return textFile;};
+    var create = document.getElementById('create'),
+    textbox = document.getElementById('TEST_ID'); 
+
+    var link = document.getElementById('downloadlink');
+    link.href =          makeTextFile(textbox.innerHTML.replace(/&amp;/g,"&").trim());
+    link.style.display = 'block';
+
+})();

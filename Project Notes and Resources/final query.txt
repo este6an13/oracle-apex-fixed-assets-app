@@ -1,0 +1,1 @@
+Diego: Cantidad total de procedimientos por activo, realizados en el presente año, siempre que superen un total de 3 procedimientos                 Daniel: Cantidad total de procedimientos atendidos por cada auxiliar, con tipo de procedimiento = ´Paz y salvo', siempre que haya atendido más de 10.

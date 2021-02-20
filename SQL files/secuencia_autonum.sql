@@ -1,0 +1,1 @@
+CREATE SEQUENCE procedimiento_secuencia;

@@ -1,0 +1,48 @@
+FECHA DE COMPRA: 03/05/2020
+ID FACTURA: 2020027
+-----------------------------------------------------------------------------------------------------------
+ID Activo      REFERENCIA               NOMBRE                        MARCA            VALOR-----------------------------------------------------------------------------------------------------------
+1060           Z6H4W6SOHDN5LEVYJD05     Computador de Escritorio      Lenovo              $2,237,144.00 COP
+1408           2XNLFQ7BP4G9919TDD1Z     Computador de Escritorio      Acer                $1,916,576.00 COP
+1531           YF7ZG0ALUEGCGDYY1GKZ     Computador de Escritorio      HP                  $1,934,944.00 COP
+1687           SBJB02AX3NGFR6XR433L     Computador de Escritorio      Lenovo              $2,798,944.00 COP
+1765           P7PL0NJOKGMJCBK20Z10     Computador de Escritorio      Asus                $1,905,746.00 COP
+2230           WRJIZYLAUGXO1IIIH8Z0     Computador de Escritorio      HP                  $2,449,364.00 COP
+2494           XPBD0TPK8G0VRHGCT32H     Computador de Escritorio      Asus                $2,198,387.00 COP
+2602           QP4KUUBG0770XRQK2J15     Computador de Escritorio      Asus                $2,997,407.00 COP
+2629           IOO255ML4XDBIF30Z9IY     Computador de Escritorio      Dell                $1,877,015.00 COP
+2713           181XZOBYOWD0JYLFV970     Computador de Escritorio      Asus                $1,826,364.00 COP
+1061           8Q8M1ARSY                Escritorio                    IKEA                  $280,379.00 COP
+1409           V1KYBS8YU                Escritorio                    Flexa                 $208,084.00 COP
+1532           4T7EEWNR8                Escritorio                    Lexington             $212,932.00 COP
+1688           RXK16LYWP                Escritorio                    Flexa                 $214,744.00 COP
+1766           ZAS9YZ89Q                Escritorio                    Lexington             $252,355.00 COP
+2231           TWPUJWVBN                Escritorio                    B&B                   $221,002.00 COP
+2495           089Z70S7R                Escritorio                    Flexa                 $227,705.00 COP
+2603           SIYSZMM48                Escritorio                    Ceccotti              $260,446.00 COP
+2630           2PE4UD8NA                Escritorio                    Flexa                 $239,159.00 COP
+2714           3B55C3VUR                Escritorio                    B&B                   $293,096.00 COP
+133            70UGLH5GO                Pupitre                       IKEA                  $230,910.00 COP
+917            9WI5WQKK1                Pupitre                       B&B                   $242,777.00 COP
+956            FOIIXI9CD                Pupitre                       Lexington             $247,952.00 COP
+984            YV70R655V                Pupitre                       Ceccotti              $225,746.00 COP
+1032           8DGVZZ749                Pupitre                       Lexington             $200,276.00 COP
+1062           T8ZHZ889D5               Silla Giratoria               Ibaby                 $252,220.00 COP
+1410           PJHKS4C9GO               Silla Giratoria               EBS                   $236,864.00 COP
+1533           YF9YLH5J8P               Silla Giratoria               TecTake               $272,702.00 COP
+1689           WMU45AW4ZS               Silla Giratoria               Ibaby                 $161,303.00 COP
+1767           J1IPNEA9UN               Silla Giratoria               TecTake               $207,450.00 COP
+2232           2DBQH48JQH               Silla Giratoria               TecTake               $227,841.00 COP
+2496           ZZAJGY3DXM               Silla Giratoria               SongMics              $187,868.00 COP
+2604           28OHZEX3X6               Silla Giratoria               TecTake               $173,536.00 COP
+2631           QJWR0PW352               Silla Giratoria               EBS                   $303,182.00 COP
+2715           80S53YOPDQ               Silla Giratoria               TecTake               $239,827.00 COP
+132            VJFEU4EQXJOGP0U          Televisor                     Sony                $1,413,373.00 COP
+916            1CTGMJRQIWWL21L          Televisor                     Samsung             $1,291,332.00 COP
+955            YCAEFM3DFYS7NLP          Televisor                     Sony                $1,428,233.00 COP
+-----------------------------------------------------------------------------------------------------------
+Suma:   $32,095,185.00 COP
+......................................................
+Valor Registrado en Factura:   $32,095,185.00 COP
+......................................................
+Desfase:             $.00 COP

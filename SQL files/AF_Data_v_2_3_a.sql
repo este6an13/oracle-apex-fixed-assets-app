@@ -1,0 +1,2027 @@
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020000, TO_DATE('22/1/2020', 'dd/mm/yyyy'),20841556);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020001, TO_DATE('5/3/2020', 'dd/mm/yyyy'),21721298);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020002, TO_DATE('12/1/2020', 'dd/mm/yyyy'),17769676);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020003, TO_DATE('20/2/2020', 'dd/mm/yyyy'),23885324);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020004, TO_DATE('13/4/2020', 'dd/mm/yyyy'),20499399);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020005, TO_DATE('23/5/2020', 'dd/mm/yyyy'),18295362);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020006, TO_DATE('24/5/2020', 'dd/mm/yyyy'),20286337);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020007, TO_DATE('17/3/2020', 'dd/mm/yyyy'),21814499);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020008, TO_DATE('18/1/2020', 'dd/mm/yyyy'),21729971);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020009, TO_DATE('7/2/2020', 'dd/mm/yyyy'),19690175);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020010, TO_DATE('16/3/2020', 'dd/mm/yyyy'),18062587);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020011, TO_DATE('27/2/2020', 'dd/mm/yyyy'),21046461);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020012, TO_DATE('1/4/2020', 'dd/mm/yyyy'),20600432);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020013, TO_DATE('24/6/2020', 'dd/mm/yyyy'),16200277);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020014, TO_DATE('3/5/2020', 'dd/mm/yyyy'),21587592);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020015, TO_DATE('14/6/2020', 'dd/mm/yyyy'),19723933);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020016, TO_DATE('21/4/2020', 'dd/mm/yyyy'),15802606);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020017, TO_DATE('17/2/2020', 'dd/mm/yyyy'),19136121);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020018, TO_DATE('16/3/2020', 'dd/mm/yyyy'),15100138);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020019, TO_DATE('17/5/2020', 'dd/mm/yyyy'),15462390);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020020, TO_DATE('2/1/2020', 'dd/mm/yyyy'),15412831);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020021, TO_DATE('1/2/2020', 'dd/mm/yyyy'),21929976);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020022, TO_DATE('10/4/2020', 'dd/mm/yyyy'),20881421);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020023, TO_DATE('4/6/2020', 'dd/mm/yyyy'),15674916);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020024, TO_DATE('9/4/2020', 'dd/mm/yyyy'),16649948);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020025, TO_DATE('14/4/2020', 'dd/mm/yyyy'),21031547);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020026, TO_DATE('26/1/2020', 'dd/mm/yyyy'),20961477);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020027, TO_DATE('16/2/2020', 'dd/mm/yyyy'),19892500);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020028, TO_DATE('18/6/2020', 'dd/mm/yyyy'),23873087);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020029, TO_DATE('21/5/2020', 'dd/mm/yyyy'),18862421);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020030, TO_DATE('27/4/2020', 'dd/mm/yyyy'),24765148);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020031, TO_DATE('1/3/2020', 'dd/mm/yyyy'),20742471);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020032, TO_DATE('16/1/2020', 'dd/mm/yyyy'),16183905);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020033, TO_DATE('23/6/2020', 'dd/mm/yyyy'),16438485);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020034, TO_DATE('19/2/2020', 'dd/mm/yyyy'),20912951);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020035, TO_DATE('23/2/2020', 'dd/mm/yyyy'),17382705);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020036, TO_DATE('13/5/2020', 'dd/mm/yyyy'),17417660);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020037, TO_DATE('16/2/2020', 'dd/mm/yyyy'),20273472);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020038, TO_DATE('20/4/2020', 'dd/mm/yyyy'),16779384);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020039, TO_DATE('22/3/2020', 'dd/mm/yyyy'),21279616);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020040, TO_DATE('21/6/2020', 'dd/mm/yyyy'),17473356);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020041, TO_DATE('27/5/2020', 'dd/mm/yyyy'),22338814);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020042, TO_DATE('25/6/2020', 'dd/mm/yyyy'),17166324);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020043, TO_DATE('19/5/2020', 'dd/mm/yyyy'),23349478);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020044, TO_DATE('9/2/2020', 'dd/mm/yyyy'),21392275);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020045, TO_DATE('10/3/2020', 'dd/mm/yyyy'),15032800);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020046, TO_DATE('19/5/2020', 'dd/mm/yyyy'),21373026);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020047, TO_DATE('22/6/2020', 'dd/mm/yyyy'),16721188);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020048, TO_DATE('9/4/2020', 'dd/mm/yyyy'),23097398);
+
+insert into COMPRA (ID_COMPRA, FECHA_COMPRA, VALOR_COMPRA) values (2020049, TO_DATE('23/6/2020', 'dd/mm/yyyy'),22531073);
+
+insert into VICERRECTORIA (ID_VICERRECTORIA, NOMBRE_VICERRECTORIA, VICERRECTOR_VICERRECTORIA) values ('FOR','Vicerrectoría de Formación','María Claudia Rincón Mora');
+
+insert into VICERRECTORIA (ID_VICERRECTORIA, NOMBRE_VICERRECTORIA, VICERRECTOR_VICERRECTORIA) values ('ADM','Vicerrectoría de Administración y Financiera','Luz Marina Trejos Montero');
+
+insert into VICERRECTORIA (ID_VICERRECTORIA, NOMBRE_VICERRECTORIA, VICERRECTOR_VICERRECTORIA) values ('INV','Vicerrectoría de Investigación','Carlos Humberto Angarita Preciado');
+
+insert into VICERRECTORIA (ID_VICERRECTORIA, NOMBRE_VICERRECTORIA, VICERRECTOR_VICERRECTORIA) values ('EXT','Vicerrectoría de Extensión y Proyección Social','Luis Augusto Moreno Boadas');
+
+insert into FACULTAD (ID_FACULTAD, NOMBRE_FACULTAD, DECANO_FACULTAD) values ('ECO','Ciencias Económicas, Administrativas y Contables','Mario Alberto Rodríguez Franco');
+
+insert into FACULTAD (ID_FACULTAD, NOMBRE_FACULTAD, DECANO_FACULTAD) values ('JUR','Ciencias Jurídicas y Sociales','Francisco Antonio Pedraza Vásquez');
+
+insert into FACULTAD (ID_FACULTAD, NOMBRE_FACULTAD, DECANO_FACULTAD) values ('AGR','Ciencias Agrarias','Néstor Mauricio Serna Rodríguez');
+
+insert into FACULTAD (ID_FACULTAD, NOMBRE_FACULTAD, DECANO_FACULTAD) values ('ING','Ingeniería','María Luisa Pérez Cifuentes');
+
+insert into FACULTAD (ID_FACULTAD, NOMBRE_FACULTAD, DECANO_FACULTAD) values ('CIE','Ciencias Básicas y de la Educación','Sandra Milena Piedrahita Buitrago');
+
+insert into PROGRAMA (ID_FACULTAD, ID_PROGRAMA, NOMBRE_PROGRAMA) values ('AGR','ZOO','Zootecnia');
+
+insert into PROGRAMA (ID_FACULTAD, ID_PROGRAMA, NOMBRE_PROGRAMA) values ('ECO','AFS','Administración Financiera y de Sistemas');
+
+insert into PROGRAMA (ID_FACULTAD, ID_PROGRAMA, NOMBRE_PROGRAMA) values ('ECO','SGI','Especialización en Sistemas de Gestión Integrada HSEQ');
+
+insert into PROGRAMA (ID_FACULTAD, ID_PROGRAMA, NOMBRE_PROGRAMA) values ('ING','ALI','Ingeniería de Alimentos');
+
+insert into PROGRAMA (ID_FACULTAD, ID_PROGRAMA, NOMBRE_PROGRAMA) values ('ING','MEC','Ingeniería Mecatrónica');
+
+insert into PROGRAMA (ID_FACULTAD, ID_PROGRAMA, NOMBRE_PROGRAMA) values ('ECO','EGA','Especialización en Gestión de Agronegocios');
+
+insert into PROGRAMA (ID_FACULTAD, ID_PROGRAMA, NOMBRE_PROGRAMA) values ('CIE','LCNEA','Licenciatura en Ciencias Naturales y Educación Ambiental');
+
+insert into PROGRAMA (ID_FACULTAD, ID_PROGRAMA, NOMBRE_PROGRAMA) values ('ING','AGR','Ingeniería Agroindustrial');
+
+insert into PROGRAMA (ID_FACULTAD, ID_PROGRAMA, NOMBRE_PROGRAMA) values ('JUR','DER','Derecho');
+
+insert into PROGRAMA (ID_FACULTAD, ID_PROGRAMA, NOMBRE_PROGRAMA) values ('ING','IND','Ingeniería Industrial');
+
+insert into PROGRAMA (ID_FACULTAD, ID_PROGRAMA, NOMBRE_PROGRAMA) values ('AGR','BAT','Especialización en Bienestar Animal y Etología');
+
+insert into PROGRAMA (ID_FACULTAD, ID_PROGRAMA, NOMBRE_PROGRAMA) values ('AGR','VET','Medicina Veterinaria');
+
+insert into PROGRAMA (ID_FACULTAD, ID_PROGRAMA, NOMBRE_PROGRAMA) values ('ING','SGI','Especialización en Seguridad Industrial, Higiene y Gestión Ambiental');
+
+insert into PROGRAMA (ID_FACULTAD, ID_PROGRAMA, NOMBRE_PROGRAMA) values ('JUR','LROT','Especialización en Legislación Rural y Ordenamiento Territorial');
+
+insert into PROGRAMA (ID_FACULTAD, ID_PROGRAMA, NOMBRE_PROGRAMA) values ('ING','CIV','Ingeniería Civil');
+
+insert into PROGRAMA (ID_FACULTAD, ID_PROGRAMA, NOMBRE_PROGRAMA) values ('ECO','CON','Contaduría Pública');
+
+insert into SEDE (ID_SEDE, NOMBRE_SEDE) values (3,'Dependencia Facatativá');
+
+insert into SEDE (ID_SEDE, NOMBRE_SEDE) values (2,'Dependencia Teusaquillo');
+
+insert into SEDE (ID_SEDE, NOMBRE_SEDE) values (1,'Sede Principal');
+
+insert into SEDE (ID_SEDE, NOMBRE_SEDE) values (4,'CIDT Pinares de Tenjo');
+
+insert into EDIFICIO (ID_SEDE, ID_EDIFICIO, NOMBRE_EDIFICIO)  values (3,17,'Bloque Principal');
+
+insert into EDIFICIO (ID_SEDE, ID_EDIFICIO, NOMBRE_EDIFICIO)  values (3,18,'Bloque Carrera 15');
+
+insert into EDIFICIO (ID_SEDE, ID_EDIFICIO, NOMBRE_EDIFICIO)  values (4,15,'Bloque Operarios');
+
+insert into EDIFICIO (ID_SEDE, ID_EDIFICIO, NOMBRE_EDIFICIO)  values (4,16,'Bloque Administrativo');
+
+insert into EDIFICIO (ID_SEDE, ID_EDIFICIO, NOMBRE_EDIFICIO)  values (4,13,'Bloque Principal');
+
+insert into EDIFICIO (ID_SEDE, ID_EDIFICIO, NOMBRE_EDIFICIO)  values (4,14,'Bloque Laboratorios');
+
+insert into EDIFICIO (ID_SEDE, ID_EDIFICIO, NOMBRE_EDIFICIO)  values (2,11,'Bloque Principal');
+
+insert into EDIFICIO (ID_SEDE, ID_EDIFICIO, NOMBRE_EDIFICIO)  values (2,12,'Bloque Carlos Fernando Paredes Millán');
+
+insert into EDIFICIO (ID_SEDE, ID_EDIFICIO, NOMBRE_EDIFICIO)  values (1,3,'Bloque C');
+
+insert into EDIFICIO (ID_SEDE, ID_EDIFICIO, NOMBRE_EDIFICIO)  values (1,2,'Bloque B');
+
+insert into EDIFICIO (ID_SEDE, ID_EDIFICIO, NOMBRE_EDIFICIO)  values (1,1,'Bloque A');
+
+insert into EDIFICIO (ID_SEDE, ID_EDIFICIO, NOMBRE_EDIFICIO)  values (1,10,'Bloque J');
+
+insert into EDIFICIO (ID_SEDE, ID_EDIFICIO, NOMBRE_EDIFICIO)  values (1,7,'Bloque G');
+
+insert into EDIFICIO (ID_SEDE, ID_EDIFICIO, NOMBRE_EDIFICIO)  values (1,6,'Bloque F');
+
+insert into EDIFICIO (ID_SEDE, ID_EDIFICIO, NOMBRE_EDIFICIO)  values (1,5,'Bloque E');
+
+insert into EDIFICIO (ID_SEDE, ID_EDIFICIO, NOMBRE_EDIFICIO)  values (1,4,'Bloque D');
+
+insert into EDIFICIO (ID_SEDE, ID_EDIFICIO, NOMBRE_EDIFICIO)  values (1,9,'Bloque I');
+
+insert into EDIFICIO (ID_SEDE, ID_EDIFICIO, NOMBRE_EDIFICIO)  values (1,8,'Bloque H');
+
+insert into DEPARTAMENTO (ID_DEPARTAMENTO, NOMBRE_DEPARTAMENTO, DIRECTOR_DEPARTAMENTO, ID_VICERRECTORIA, ID_FACULTAD)values (10,'Administración Dependencia Facatativá','Beatriz Gaitán Oviedo','ADM', null);
+
+insert into DEPARTAMENTO (ID_DEPARTAMENTO, NOMBRE_DEPARTAMENTO, DIRECTOR_DEPARTAMENTO, ID_VICERRECTORIA, ID_FACULTAD)values (11,'Administración Dependencia Teusaquillo','María Alejandra Azuero López','ADM', null);
+
+insert into DEPARTAMENTO (ID_DEPARTAMENTO, NOMBRE_DEPARTAMENTO, DIRECTOR_DEPARTAMENTO, ID_VICERRECTORIA, ID_FACULTAD)values (17,'Educación Virtual','Carlos Arturo Durán Porras','FOR', null);
+
+insert into DEPARTAMENTO (ID_DEPARTAMENTO, NOMBRE_DEPARTAMENTO, DIRECTOR_DEPARTAMENTO, ID_VICERRECTORIA, ID_FACULTAD)values (22,'Mercadeo','Johanna Vanessa Duarte Jiménez','ADM', null);
+
+insert into DEPARTAMENTO (ID_DEPARTAMENTO, NOMBRE_DEPARTAMENTO, DIRECTOR_DEPARTAMENTO, ID_VICERRECTORIA, ID_FACULTAD)values (20,'Secretaría General','Maria Helena Cadavid Quintana','ADM', null);
+
+insert into DEPARTAMENTO (ID_DEPARTAMENTO, NOMBRE_DEPARTAMENTO, DIRECTOR_DEPARTAMENTO, ID_VICERRECTORIA, ID_FACULTAD)values (21,'Planeación','David Hernando Torres Piraquive','ADM', null);
+
+insert into DEPARTAMENTO (ID_DEPARTAMENTO, NOMBRE_DEPARTAMENTO, DIRECTOR_DEPARTAMENTO, ID_VICERRECTORIA, ID_FACULTAD)values (13,'Laboratorios de Ciencias Agrarias','Manuel Carlos Medina Lopera', null,'AGR');
+
+insert into DEPARTAMENTO (ID_DEPARTAMENTO, NOMBRE_DEPARTAMENTO, DIRECTOR_DEPARTAMENTO, ID_VICERRECTORIA, ID_FACULTAD)values (1,'Investigación Aplicada','Pablo Andrés Rodríguez Peña','INV', null);
+
+insert into DEPARTAMENTO (ID_DEPARTAMENTO, NOMBRE_DEPARTAMENTO, DIRECTOR_DEPARTAMENTO, ID_VICERRECTORIA, ID_FACULTAD)values (2,'Investigación Formativa','Adriana Martínez Méndez','INV', null);
+
+insert into DEPARTAMENTO (ID_DEPARTAMENTO, NOMBRE_DEPARTAMENTO, DIRECTOR_DEPARTAMENTO, ID_VICERRECTORIA, ID_FACULTAD)values (18,'Bienestar Universitario','Eduardo Fernández Wilches','EXT', null);
+
+insert into DEPARTAMENTO (ID_DEPARTAMENTO, NOMBRE_DEPARTAMENTO, DIRECTOR_DEPARTAMENTO, ID_VICERRECTORIA, ID_FACULTAD)values (5,'Proyectos Educativos en Contextos Rurales','Sandra Patricia Lara Martínez','EXT', null);
+
+insert into DEPARTAMENTO (ID_DEPARTAMENTO, NOMBRE_DEPARTAMENTO, DIRECTOR_DEPARTAMENTO, ID_VICERRECTORIA, ID_FACULTAD)values (16,'Ciencias Básicas','Myriam Adriana Rodríguez López', null,'CIE');
+
+insert into DEPARTAMENTO (ID_DEPARTAMENTO, NOMBRE_DEPARTAMENTO, DIRECTOR_DEPARTAMENTO, ID_VICERRECTORIA, ID_FACULTAD)values (19,'Formación Académica','Carlos Andrés Preciado Sosa','FOR', null);
+
+insert into DEPARTAMENTO (ID_DEPARTAMENTO, NOMBRE_DEPARTAMENTO, DIRECTOR_DEPARTAMENTO, ID_VICERRECTORIA, ID_FACULTAD)values (8,'Logística y Servicios Administrativos','Wilson Andrés Montaño Cárdenas','ADM', null);
+
+insert into DEPARTAMENTO (ID_DEPARTAMENTO, NOMBRE_DEPARTAMENTO, DIRECTOR_DEPARTAMENTO, ID_VICERRECTORIA, ID_FACULTAD)values (9,'Sistemas y Tecnología','Daniel Humberto Díaz Calero','ADM', null);
+
+insert into DEPARTAMENTO (ID_DEPARTAMENTO, NOMBRE_DEPARTAMENTO, DIRECTOR_DEPARTAMENTO, ID_VICERRECTORIA, ID_FACULTAD)values (15,'Humanidades','Martín Alejandro Corrales Parra', null,'CIE');
+
+insert into DEPARTAMENTO (ID_DEPARTAMENTO, NOMBRE_DEPARTAMENTO, DIRECTOR_DEPARTAMENTO, ID_VICERRECTORIA, ID_FACULTAD)values (3,'Educación para el Trabajo y el Desarrollo Humano','Samuel Cipriano Moreno Rodríguez','EXT', null);
+
+insert into DEPARTAMENTO (ID_DEPARTAMENTO, NOMBRE_DEPARTAMENTO, DIRECTOR_DEPARTAMENTO, ID_VICERRECTORIA, ID_FACULTAD)values (6,'Finanzas','Carlos Alberto Bernal Tiquiza','ADM', null);
+
+insert into DEPARTAMENTO (ID_DEPARTAMENTO, NOMBRE_DEPARTAMENTO, DIRECTOR_DEPARTAMENTO, ID_VICERRECTORIA, ID_FACULTAD)values (12,'Laboratorios de Ingeniería','Gloria Mercedes Cardona Sotelo', null,'ING');
+
+insert into DEPARTAMENTO (ID_DEPARTAMENTO, NOMBRE_DEPARTAMENTO, DIRECTOR_DEPARTAMENTO, ID_VICERRECTORIA, ID_FACULTAD)values (23,'Laboratorios de Ciencias Básicas','Diego Alonso Mancilla Peña', null,'CIE');
+
+insert into DEPARTAMENTO (ID_DEPARTAMENTO, NOMBRE_DEPARTAMENTO, DIRECTOR_DEPARTAMENTO, ID_VICERRECTORIA, ID_FACULTAD)values (14,'Idiomas','Roger Miller Campbell', null,'CIE');
+
+insert into DEPARTAMENTO (ID_DEPARTAMENTO, NOMBRE_DEPARTAMENTO, DIRECTOR_DEPARTAMENTO, ID_VICERRECTORIA, ID_FACULTAD)values (4,'Aseguramiento de la Calidad','Mario Andrés Canadas Buitrago','FOR', null);
+
+insert into DEPARTAMENTO (ID_DEPARTAMENTO, NOMBRE_DEPARTAMENTO, DIRECTOR_DEPARTAMENTO, ID_VICERRECTORIA, ID_FACULTAD)values (7,'Gestión Humana y Desarrollo Organizacional','Maria Alejandra Pinzón Ramos','ADM', null);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (35,'Compras y Almacén', null,8);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (36,'Infraestructura', null,8);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (33,'Administración de Personal', null,7);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (34,'Reclutamiento y Selección de Personal', null,7);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (39,'Soporte Técnico y Telecomunicaciones', null,9);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (37,'Servicios Generales y Transportes', null,8);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (38,'Ayudas Educativas', null,9);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (43,'Coordinación de Ingeniería Mecatrónica', null,10);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (42,'Coordinación de Derecho', null,10);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (41,'Coordinación de Ingeniería Civil', null,10);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (40,'Soporte Sistema Institucional', null,9);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (22,'Ambientes Virtuales de Aprendizaje', null,17);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (23,'Desarrollo de Programas Virtuales', null,17);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (24,'Acompañamiento Estudiantil', null,18);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (25,'Arte y Cultura', null,18);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (26,'Actividad Física y Deporte', null,18);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (27,'Medicina Estudiantil', null,18);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (28,'Odontología', null,18);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (29,'Psicología Clínica', null,18);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (3,'Estudios Ambientales', null,19);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (2,'Registro y Control', null,19);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (1,'Sección de Bibliotecas', null,19);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (7,'Autoevaluación', null,4);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (30,'Integración con el Egresado', null,18);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (6,'Registros Calificados', null,4);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (5,'Acreditación', null,4);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (32,'Capacitación y Desarrollo de Personal', null,7);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (4,'Emprendimiento', null,19);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (31,'Seguridad y Salud en el Trabajo', null,7);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (9,'Ética y Bioética', null,1);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (8,'Divulgación Científica', null,2);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (56,'Escuela de Formación y Perfeccionamiento Docente','CIE', null);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (19,'Investigación de Mercados', null,22);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (55,'Coordinación de Laboratorios de Ciencias Básicas','CIE', null);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (17,'Gestión de la Información Institutucional', null,21);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (18,'Comunicaciones', null,22);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (15,'Sistemas Integrados de Gestión', null,21);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (16,'Planeación Presupuestal', null,21);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (13,'Archivo y Gestión Documental', null,20);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (14,'Planificación Estratégica', null,21);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (11,'Articulación con la Educación Media', null,5);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (12,'Educación Permanente', null,5);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (21,'Innovación Educativa', null,17);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (20,'Permanencia Estudiantil', null,22);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (49,'Coordinación CIDT Pinares de Tenjo','AGR', null);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (48,'Coordinación de Derecho', null,11);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (45,'Servicios del Medio Universitario', null,10);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (44,'Servicios Administrativos', null,10);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (47,'Servicios del Medio Universitario', null,11);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (46,'Servicios Administrativos', null,11);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (10,'Programa Sembrar Paz', null,4);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (51,'Centros de Conciliación','JUR', null);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (52,'Consultorio Contable','ECO', null);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (53,'Coordinación de Laboratorios de Ingeniería','ING', null);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (54,'Coordinación de Laboratorios de Ciencias Agrarias','AGR', null);
+
+insert into AREA (ID_AREA, NOMBRE_AREA, ID_FACULTAD, ID_DEPARTAMENTO) values (50,'Consultorio Jurídico','JUR', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007001,'Nathaly Myriam Méndez Varela',TO_DATE('24/4/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',1, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006000,'Andrés Jerónimo Usaquén Vargas',TO_DATE('8/2/2020', 'dd/mm/yyyy'), null,1018007001,'E','Coordinador',1, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005000,'Jenny Ana Salazar Vega',TO_DATE('20/1/2020', 'dd/mm/yyyy'), null,1018006000,'E','Asistente',1, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005001,'Sebastián Raul Álvarez Figueroa',TO_DATE('23/6/2020', 'dd/mm/yyyy'), null,1018006000,'E','Asistente Jr.',1, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005002,'Valentina Ruth Meléndez Rey',TO_DATE('2/2/2020', 'dd/mm/yyyy'), null,1018006000,'E','Asistente',1, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006001,'Johanna María Varela Sánchez',TO_DATE('13/1/2020', 'dd/mm/yyyy'), null,1018007001,'E','Coordinador',1, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005003,'Jerónimo David Galeano León',TO_DATE('24/6/2020', 'dd/mm/yyyy'), null,1018006001,'E','Asistente',1, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005004,'Javier Andrés Moreira Santamaría',TO_DATE('17/5/2020', 'dd/mm/yyyy'), null,1018006001,'E','Asistente Jr.',1, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005005,'David Enrique Barreto Acosta',TO_DATE('12/3/2020', 'dd/mm/yyyy'), null,1018006001,'E','Asistente',1, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007002,'Eduardo Johnatan Pacheco León',TO_DATE('24/2/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',2, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006002,'Abelardo Roberto Vásquez Bolivar',TO_DATE('8/3/2020', 'dd/mm/yyyy'), null,1018007002,'E','Coordinador',2, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005006,'Felipe Jesús Vásquez Caballero',TO_DATE('10/5/2020', 'dd/mm/yyyy'), null,1018006002,'E','Asistente',2, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005007,'Julián Jesús Rivas Jiménez',TO_DATE('4/1/2020', 'dd/mm/yyyy'), null,1018006002,'E','Asistente Jr.',2, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005008,'Stephanie Beatriz Salazar Mora',TO_DATE('4/1/2020', 'dd/mm/yyyy'), null,1018006002,'E','Asistente',2, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006003,'Ana Nathaly Caballero Quintero',TO_DATE('20/6/2020', 'dd/mm/yyyy'), null,1018007002,'E','Coordinador',2, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005009,'Tatiana Sandra Méndez Costa',TO_DATE('12/5/2020', 'dd/mm/yyyy'), null,1018006003,'E','Asistente',2, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005010,'John Néstor Flores Vásquez',TO_DATE('16/5/2020', 'dd/mm/yyyy'), null,1018006003,'E','Asistente Jr.',2, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005011,'Edgar Daniel Ibáñez Mendoza',TO_DATE('17/5/2020', 'dd/mm/yyyy'), null,1018006003,'E','Asistente',2, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007003,'Lorena Mayra Campos Rubio',TO_DATE('2/7/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',3, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006004,'Lucas Johnatan Torres Pereira',TO_DATE('22/2/2020', 'dd/mm/yyyy'), null,1018007003,'E','Coordinador',3, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005012,'Antonio Julián Hernández Cruz',TO_DATE('17/7/2020', 'dd/mm/yyyy'), null,1018006004,'E','Asistente',3, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005013,'Morelia Jéssica González Bolivar',TO_DATE('10/1/2020', 'dd/mm/yyyy'), null,1018006004,'E','Asistente Jr.',3, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005014,'Julián Eloy Esteban Gil',TO_DATE('11/4/2020', 'dd/mm/yyyy'), null,1018006004,'E','Asistente',3, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006005,'Mateo Humberto Salas Guerra',TO_DATE('27/3/2020', 'dd/mm/yyyy'), null,1018007003,'E','Coordinador',3, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005015,'Eduardo Ricardo Gómez Bolivar',TO_DATE('18/5/2020', 'dd/mm/yyyy'), null,1018006005,'E','Asistente',3, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005016,'Javier Alejandro Guzmán Mora',TO_DATE('3/6/2020', 'dd/mm/yyyy'), null,1018006005,'E','Asistente Jr.',3, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005017,'Gisell María Martínez León',TO_DATE('17/2/2020', 'dd/mm/yyyy'), null,1018006005,'E','Asistente',3, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007004,'Andrea Johanna Montero Cardona',TO_DATE('15/1/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',4, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006006,'David César Santos Quintana',TO_DATE('17/7/2020', 'dd/mm/yyyy'), null,1018007004,'E','Coordinador',4, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005018,'Angie Verónica Ortega Peña',TO_DATE('25/2/2020', 'dd/mm/yyyy'), null,1018006006,'E','Asistente',4, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005019,'Adela Myriam Duarte Redondo',TO_DATE('14/1/2020', 'dd/mm/yyyy'), null,1018006006,'E','Asistente Jr.',4, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005020,'Andrea Sandra Cruz Pereira',TO_DATE('25/4/2020', 'dd/mm/yyyy'), null,1018006006,'E','Asistente',4, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006007,'Carlos Esteban Murillo Márquez',TO_DATE('14/5/2020', 'dd/mm/yyyy'), null,1018007004,'E','Coordinador',4, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005021,'Gonzalo Edgar Medina Beltrán',TO_DATE('28/6/2020', 'dd/mm/yyyy'), null,1018006007,'E','Asistente',4, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005022,'Adela Morelia Quintero Cárdenas',TO_DATE('25/1/2020', 'dd/mm/yyyy'), null,1018006007,'E','Asistente Jr.',4, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005023,'Melissa Ana Palacios Galeano',TO_DATE('10/6/2020', 'dd/mm/yyyy'), null,1018006007,'E','Asistente',4, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007005,'Nancy Sara Torres Nieto',TO_DATE('7/3/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',5, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006008,'Orlando Francisco Hernández Rojas',TO_DATE('26/6/2020', 'dd/mm/yyyy'), null,1018007005,'E','Coordinador',5, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005024,'Lucas Johnatan Barreto Palacios',TO_DATE('9/7/2020', 'dd/mm/yyyy'), null,1018006008,'E','Asistente',5, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005025,'Dora Vanessa Fernández Alarcón',TO_DATE('2/5/2020', 'dd/mm/yyyy'), null,1018006008,'E','Asistente Jr.',5, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005026,'Diego Fabián Pacheco Varela',TO_DATE('3/4/2020', 'dd/mm/yyyy'), null,1018006008,'E','Asistente',5, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006009,'Diana Patricia Montes Hernández',TO_DATE('19/5/2020', 'dd/mm/yyyy'), null,1018007005,'E','Coordinador',5, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005027,'Andrea Verónica Navas Ibáñez',TO_DATE('19/6/2020', 'dd/mm/yyyy'), null,1018006009,'E','Asistente',5, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005028,'Johanna Jennifer Galeano Arias',TO_DATE('7/4/2020', 'dd/mm/yyyy'), null,1018006009,'E','Asistente Jr.',5, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005029,'Nancy Tania Calderón Silva',TO_DATE('18/6/2020', 'dd/mm/yyyy'), null,1018006009,'E','Asistente',5, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007006,'Natalia Beatriz Navarro Aparicio',TO_DATE('20/7/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',6, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006010,'Lucas Johnatan Esteban Arias',TO_DATE('20/5/2020', 'dd/mm/yyyy'), null,1018007006,'E','Coordinador',6, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005030,'Angie Gina Vásquez Meza',TO_DATE('3/2/2020', 'dd/mm/yyyy'), null,1018006010,'E','Asistente',6, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005031,'Pedro Antonio González Flores',TO_DATE('14/7/2020', 'dd/mm/yyyy'), null,1018006010,'E','Asistente Jr.',6, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005032,'Steven Daniel Flores Bolivar',TO_DATE('21/2/2020', 'dd/mm/yyyy'), null,1018006010,'E','Asistente',6, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006011,'Esteban Julián Cardona Bermúdez',TO_DATE('14/2/2020', 'dd/mm/yyyy'), null,1018007006,'E','Coordinador',6, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005033,'Bernardo Diego Núñez Herrera',TO_DATE('24/5/2020', 'dd/mm/yyyy'), null,1018006011,'E','Asistente',6, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005034,'Diego Rodrigo Cruz Navas',TO_DATE('10/4/2020', 'dd/mm/yyyy'), null,1018006011,'E','Asistente Jr.',6, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005035,'Luis Andrés Mora Mora',TO_DATE('19/6/2020', 'dd/mm/yyyy'), null,1018006011,'E','Asistente',6, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007007,'Lucas César Navas Lozano',TO_DATE('14/6/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',7, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006012,'Olga Stephanie Varela Navas',TO_DATE('16/5/2020', 'dd/mm/yyyy'), null,1018007007,'E','Coordinador',7, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005036,'Katherine Silvia Herrera Morales',TO_DATE('16/6/2020', 'dd/mm/yyyy'), null,1018006012,'E','Asistente',7, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005037,'Susana Yolanda Peña González',TO_DATE('26/1/2020', 'dd/mm/yyyy'), null,1018006012,'E','Asistente Jr.',7, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005038,'Gabriel Humberto Noratto González',TO_DATE('17/1/2020', 'dd/mm/yyyy'), null,1018006012,'E','Asistente',7, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006013,'Martha Gisell Delgado Santos',TO_DATE('22/3/2020', 'dd/mm/yyyy'), null,1018007007,'E','Coordinador',7, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005039,'Nicolás Miguel Romero Silva',TO_DATE('22/6/2020', 'dd/mm/yyyy'), null,1018006013,'E','Asistente',7, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005040,'Angie Diana Acosta Noratto',TO_DATE('11/6/2020', 'dd/mm/yyyy'), null,1018006013,'E','Asistente Jr.',7, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005041,'Nubia Elisa Morales Gómez',TO_DATE('1/6/2020', 'dd/mm/yyyy'), null,1018006013,'E','Asistente',7, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007008,'David Armando Gil Amador',TO_DATE('7/1/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',8, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006014,'Gonzalo Andrés Barreto Martín',TO_DATE('25/5/2020', 'dd/mm/yyyy'), null,1018007008,'E','Coordinador',8, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005042,'Susana Sofía Sánchez Quintana',TO_DATE('17/1/2020', 'dd/mm/yyyy'), null,1018006014,'E','Asistente',8, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005043,'Nelly Nathaly Vallejo Medina',TO_DATE('18/7/2020', 'dd/mm/yyyy'), null,1018006014,'E','Asistente Jr.',8, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005044,'Sergio Angel Roldán Santos',TO_DATE('28/1/2020', 'dd/mm/yyyy'), null,1018006014,'E','Asistente',8, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006015,'María Luz García Morales',TO_DATE('24/6/2020', 'dd/mm/yyyy'), null,1018007008,'E','Coordinador',8, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005045,'Raul Joan Márquez Montero',TO_DATE('1/4/2020', 'dd/mm/yyyy'), null,1018006015,'E','Asistente',8, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005046,'Gustavo Adrian Segura García',TO_DATE('15/2/2020', 'dd/mm/yyyy'), null,1018006015,'E','Asistente Jr.',8, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005047,'Daniel Ivan Álvarez Redondo',TO_DATE('19/4/2020', 'dd/mm/yyyy'), null,1018006015,'E','Asistente',8, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007009,'Mayra Elisa Medina Usaquén',TO_DATE('11/7/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',9, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006016,'Orlando Vicente Guzmán Acosta',TO_DATE('23/5/2020', 'dd/mm/yyyy'), null,1018007009,'E','Coordinador',9, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005048,'Johanna Gisell Hernández Hurtado',TO_DATE('14/6/2020', 'dd/mm/yyyy'), null,1018006016,'E','Asistente',9, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005049,'Roberto Oscar Vega Asensio',TO_DATE('11/4/2020', 'dd/mm/yyyy'), null,1018006016,'E','Asistente Jr.',9, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005050,'Sebastián Miguel Martín Castillo',TO_DATE('12/4/2020', 'dd/mm/yyyy'), null,1018006016,'E','Asistente',9, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006017,'José Diego Usaquén Espinoza',TO_DATE('1/7/2020', 'dd/mm/yyyy'), null,1018007009,'E','Coordinador',9, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005051,'Jerónimo Javier Santamaría Guerra',TO_DATE('26/4/2020', 'dd/mm/yyyy'), null,1018006017,'E','Asistente',9, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005052,'Antonio Daniel Torres Cárdenas',TO_DATE('11/2/2020', 'dd/mm/yyyy'), null,1018006017,'E','Asistente Jr.',9, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005053,'Felipe Simón Aparicio Pérez',TO_DATE('19/1/2020', 'dd/mm/yyyy'), null,1018006017,'E','Asistente',9, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007010,'Alexis Alejandro Martín Montero',TO_DATE('9/1/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',10, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006018,'Humberto Eduardo Duarte Calderón',TO_DATE('8/6/2020', 'dd/mm/yyyy'), null,1018007010,'E','Coordinador',10, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005054,'Juan Sebastián Castillo Jiménez',TO_DATE('21/3/2020', 'dd/mm/yyyy'), null,1018006018,'E','Asistente',10, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005055,'Paola Carolina Márquez Asensio',TO_DATE('5/3/2020', 'dd/mm/yyyy'), null,1018006018,'E','Asistente Jr.',10, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005056,'Adela Valentina Noratto Hurtado',TO_DATE('20/7/2020', 'dd/mm/yyyy'), null,1018006018,'E','Asistente',10, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006019,'Nelly Yamile Lara Sánchez',TO_DATE('10/2/2020', 'dd/mm/yyyy'), null,1018007010,'E','Coordinador',10, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005057,'Fabián Andrés Delgado Pérez',TO_DATE('18/7/2020', 'dd/mm/yyyy'), null,1018006019,'E','Asistente',10, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005058,'Silvana Isabel Ibáñez Jiménez',TO_DATE('21/1/2020', 'dd/mm/yyyy'), null,1018006019,'E','Asistente Jr.',10, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005059,'Nicolás Rodrigo Meléndez Fernández',TO_DATE('11/1/2020', 'dd/mm/yyyy'), null,1018006019,'E','Asistente',10, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007011,'Vanessa Vanessa Ibáñez Núñez',TO_DATE('15/4/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',11, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006020,'Gabriel David Rey Gil',TO_DATE('20/7/2020', 'dd/mm/yyyy'), null,1018007011,'E','Coordinador',11, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005060,'Cristian Lucas Cadavid Herrera',TO_DATE('7/2/2020', 'dd/mm/yyyy'), null,1018006020,'E','Asistente',11, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005061,'Daniel Angel Díaz Rojas',TO_DATE('6/5/2020', 'dd/mm/yyyy'), null,1018006020,'E','Asistente Jr.',11, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005062,'Javier Paul Quintero Cortés',TO_DATE('3/2/2020', 'dd/mm/yyyy'), null,1018006020,'E','Asistente',11, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006021,'Adrian Antonio Rivera Barreto',TO_DATE('22/6/2020', 'dd/mm/yyyy'), null,1018007011,'E','Coordinador',11, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005063,'Nelly Rosa Cortés Montoya',TO_DATE('1/1/2020', 'dd/mm/yyyy'), null,1018006021,'E','Asistente',11, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005064,'Sebastián Alexis García Bolivar',TO_DATE('22/2/2020', 'dd/mm/yyyy'), null,1018006021,'E','Asistente Jr.',11, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005065,'Angie Mariana Alarcón Calderón',TO_DATE('21/3/2020', 'dd/mm/yyyy'), null,1018006021,'E','Asistente',11, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007012,'Luis Roberto González Bolivar',TO_DATE('20/4/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',12, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006022,'Antonio Fabián Salazar Cortés',TO_DATE('3/6/2020', 'dd/mm/yyyy'), null,1018007012,'E','Coordinador',12, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005066,'Orlando Oscar Beltrán Noratto',TO_DATE('11/7/2020', 'dd/mm/yyyy'), null,1018006022,'E','Asistente',12, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005067,'Katherine Tatiana Reyes Meléndez',TO_DATE('21/5/2020', 'dd/mm/yyyy'), null,1018006022,'E','Asistente Jr.',12, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005068,'Nubia Susana Arias Esteban',TO_DATE('16/4/2020', 'dd/mm/yyyy'), null,1018006022,'E','Asistente',12, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006023,'Katherine María Pacheco Rey',TO_DATE('2/5/2020', 'dd/mm/yyyy'), null,1018007012,'E','Coordinador',12, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005069,'Luis Mateo Esteban Galeano',TO_DATE('12/3/2020', 'dd/mm/yyyy'), null,1018006023,'E','Asistente',12, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005070,'Edna Luz Morales Cruz',TO_DATE('28/6/2020', 'dd/mm/yyyy'), null,1018006023,'E','Asistente Jr.',12, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005071,'Lucas Andrés Lozano Bermúdez',TO_DATE('10/6/2020', 'dd/mm/yyyy'), null,1018006023,'E','Asistente',12, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007013,'Juan Armando Hurtado Álvarez',TO_DATE('13/6/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',13, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006024,'Jenny Edna Martín Díaz',TO_DATE('7/2/2020', 'dd/mm/yyyy'), null,1018007013,'E','Coordinador',13, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005072,'Jerónimo Leonardo Reyes Valencia',TO_DATE('21/1/2020', 'dd/mm/yyyy'), null,1018006024,'E','Asistente',13, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005073,'Verónica Lorena Rivera Santana',TO_DATE('19/5/2020', 'dd/mm/yyyy'), null,1018006024,'E','Asistente Jr.',13, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005074,'Isabella Patricia Alonso Asensio',TO_DATE('1/4/2020', 'dd/mm/yyyy'), null,1018006024,'E','Asistente',13, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006025,'Gustavo Julián Bolivar Cortés',TO_DATE('21/7/2020', 'dd/mm/yyyy'), null,1018007013,'E','Coordinador',13, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005075,'Valentina Verónica Beltrán Gómez',TO_DATE('5/5/2020', 'dd/mm/yyyy'), null,1018006025,'E','Asistente',13, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005076,'Olga Nathaly Rey Mendoza',TO_DATE('2/3/2020', 'dd/mm/yyyy'), null,1018006025,'E','Asistente Jr.',13, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005077,'Mateo Pablo Nieto Rojas',TO_DATE('22/3/2020', 'dd/mm/yyyy'), null,1018006025,'E','Asistente',13, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007014,'Guillermo David Santana Meza',TO_DATE('7/6/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',14, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006026,'Antonio Luis Pérez Barrios',TO_DATE('3/6/2020', 'dd/mm/yyyy'), null,1018007014,'E','Coordinador',14, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005078,'Néstor Alberto Ramírez Palacios',TO_DATE('27/5/2020', 'dd/mm/yyyy'), null,1018006026,'E','Asistente',14, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005079,'Myriam Nicol González Galindo',TO_DATE('22/6/2020', 'dd/mm/yyyy'), null,1018006026,'E','Asistente Jr.',14, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005080,'Mariana Jenny Ortiz Castro',TO_DATE('19/6/2020', 'dd/mm/yyyy'), null,1018006026,'E','Asistente',14, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006027,'Elisa Beatriz Galeano Castillo',TO_DATE('26/6/2020', 'dd/mm/yyyy'), null,1018007014,'E','Coordinador',14, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005081,'Juliana Mary Ortiz Varela',TO_DATE('8/1/2020', 'dd/mm/yyyy'), null,1018006027,'E','Asistente',14, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005082,'Gloria Valentina Meza Ortega',TO_DATE('2/3/2020', 'dd/mm/yyyy'), null,1018006027,'E','Asistente Jr.',14, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005083,'Yolanda Johanna Castillo Varela',TO_DATE('20/4/2020', 'dd/mm/yyyy'), null,1018006027,'E','Asistente',14, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007015,'David Jaime Barreto Moreno',TO_DATE('24/3/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',15, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006028,'Alejandro Guillermo Velásquez Espinoza',TO_DATE('12/6/2020', 'dd/mm/yyyy'), null,1018007015,'E','Coordinador',15, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005084,'Isabel Jenny Álvarez Esteban',TO_DATE('9/7/2020', 'dd/mm/yyyy'), null,1018006028,'E','Asistente',15, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005085,'Luis David Montero Galeano',TO_DATE('2/4/2020', 'dd/mm/yyyy'), null,1018006028,'E','Asistente Jr.',15, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005086,'Edgar Julián Vargas Valencia',TO_DATE('18/3/2020', 'dd/mm/yyyy'), null,1018006028,'E','Asistente',15, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006029,'Sara Katherine Rubio Luque',TO_DATE('9/2/2020', 'dd/mm/yyyy'), null,1018007015,'E','Coordinador',15, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005087,'Francisco David Salazar Arias',TO_DATE('3/2/2020', 'dd/mm/yyyy'), null,1018006029,'E','Asistente',15, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005088,'Silvia Ana Santos Mora',TO_DATE('27/2/2020', 'dd/mm/yyyy'), null,1018006029,'E','Asistente Jr.',15, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005089,'Dora Nancy Mora Duarte',TO_DATE('1/1/2020', 'dd/mm/yyyy'), null,1018006029,'E','Asistente',15, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007016,'Isabel Nancy López Mendoza',TO_DATE('17/2/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',16, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006030,'Yamile Rosa Torres Rodríguez',TO_DATE('23/2/2020', 'dd/mm/yyyy'), null,1018007016,'E','Coordinador',16, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005090,'Miguel José Hurtado Lara',TO_DATE('28/2/2020', 'dd/mm/yyyy'), null,1018006030,'E','Asistente',16, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005091,'Jorge Emilio Rey León',TO_DATE('15/3/2020', 'dd/mm/yyyy'), null,1018006030,'E','Asistente Jr.',16, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005092,'Carlos Paul Aparicio Peña',TO_DATE('9/2/2020', 'dd/mm/yyyy'), null,1018006030,'E','Asistente',16, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006031,'Silvia Myriam González Ramos',TO_DATE('26/4/2020', 'dd/mm/yyyy'), null,1018007016,'E','Coordinador',16, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005093,'Bernardo Edison Esteban Cruz',TO_DATE('18/3/2020', 'dd/mm/yyyy'), null,1018006031,'E','Asistente',16, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005094,'Oscar Guillermo Suárez Peña',TO_DATE('12/6/2020', 'dd/mm/yyyy'), null,1018006031,'E','Asistente Jr.',16, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005095,'David Alberto Herrera Murillo',TO_DATE('13/7/2020', 'dd/mm/yyyy'), null,1018006031,'E','Asistente',16, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007017,'Katherine Estela Esteban Nieto',TO_DATE('28/6/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',17, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006032,'Guillermo Sebastián Macías Santana',TO_DATE('15/6/2020', 'dd/mm/yyyy'), null,1018007017,'E','Coordinador',17, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005096,'Paul Edgar Núñez Camacho',TO_DATE('27/2/2020', 'dd/mm/yyyy'), null,1018006032,'E','Asistente',17, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005097,'John Diego Ibáñez Murillo',TO_DATE('18/2/2020', 'dd/mm/yyyy'), null,1018006032,'E','Asistente Jr.',17, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005098,'César Mateo Moreira Duarte',TO_DATE('6/5/2020', 'dd/mm/yyyy'), null,1018006032,'E','Asistente',17, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006033,'Jerónimo Ivan Medina Lara',TO_DATE('7/2/2020', 'dd/mm/yyyy'), null,1018007017,'E','Coordinador',17, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005099,'David Rodrigo Jiménez Martín',TO_DATE('4/2/2020', 'dd/mm/yyyy'), null,1018006033,'E','Asistente',17, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005100,'Melissa Gloria Esteban Cabrera',TO_DATE('18/5/2020', 'dd/mm/yyyy'), null,1018006033,'E','Asistente Jr.',17, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005101,'Steven Cristian Vásquez Pérez',TO_DATE('7/4/2020', 'dd/mm/yyyy'), null,1018006033,'E','Asistente',17, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007018,'Ana Nubia Marín Palacios',TO_DATE('12/2/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',18, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006034,'Cristian Humberto Reyes Usaquén',TO_DATE('20/6/2020', 'dd/mm/yyyy'), null,1018007018,'E','Coordinador',18, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005102,'María Verónica Salazar Caballero',TO_DATE('12/7/2020', 'dd/mm/yyyy'), null,1018006034,'E','Asistente',18, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005103,'Mery Amparo Gómez Meléndez',TO_DATE('15/1/2020', 'dd/mm/yyyy'), null,1018006034,'E','Asistente Jr.',18, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005104,'David Manuel Domínguez Mora',TO_DATE('13/4/2020', 'dd/mm/yyyy'), null,1018006034,'E','Asistente',18, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006035,'Nubia Yolanda Aparicio Montes',TO_DATE('16/1/2020', 'dd/mm/yyyy'), null,1018007018,'E','Coordinador',18, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005105,'Orlando Enrique Cabrera Pacheco',TO_DATE('18/7/2020', 'dd/mm/yyyy'), null,1018006035,'E','Asistente',18, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005106,'Roberto Sebastián Guzmán Pinilla',TO_DATE('28/4/2020', 'dd/mm/yyyy'), null,1018006035,'E','Asistente Jr.',18, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005107,'Luis Raul Salazar Velásquez',TO_DATE('13/6/2020', 'dd/mm/yyyy'), null,1018006035,'E','Asistente',18, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007019,'Gabriel John Campos Espinoza',TO_DATE('20/6/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',19, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006036,'Angel Alberto Pereira Esteban',TO_DATE('8/5/2020', 'dd/mm/yyyy'), null,1018007019,'E','Coordinador',19, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005108,'Alejandro César Méndez Méndez',TO_DATE('22/4/2020', 'dd/mm/yyyy'), null,1018006036,'E','Asistente',19, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005109,'Nicol Andrea Márquez Valencia',TO_DATE('20/4/2020', 'dd/mm/yyyy'), null,1018006036,'E','Asistente Jr.',19, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005110,'Ricardo Enrique Arias Palacios',TO_DATE('12/2/2020', 'dd/mm/yyyy'), null,1018006036,'E','Asistente',19, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006037,'Edna Valeria Rubio Cabrera',TO_DATE('23/2/2020', 'dd/mm/yyyy'), null,1018007019,'E','Coordinador',19, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005111,'John César Delgado Vega',TO_DATE('8/2/2020', 'dd/mm/yyyy'), null,1018006037,'E','Asistente',19, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005112,'Simón Lucas Galindo Sánchez',TO_DATE('12/3/2020', 'dd/mm/yyyy'), null,1018006037,'E','Asistente Jr.',19, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005113,'César Javier Redondo Castro',TO_DATE('3/6/2020', 'dd/mm/yyyy'), null,1018006037,'E','Asistente',19, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007020,'Simón Sergio Barreto Álvarez',TO_DATE('5/3/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',20, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006038,'Lorena Angie Mendoza Ortiz',TO_DATE('16/3/2020', 'dd/mm/yyyy'), null,1018007020,'E','Coordinador',20, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005114,'Sofía Natalia Pacheco Estevez',TO_DATE('12/2/2020', 'dd/mm/yyyy'), null,1018006038,'E','Asistente',20, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005115,'Edgar Raul Redondo Marín',TO_DATE('25/6/2020', 'dd/mm/yyyy'), null,1018006038,'E','Asistente Jr.',20, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005116,'Gisell Paula Delgado Salas',TO_DATE('18/7/2020', 'dd/mm/yyyy'), null,1018006038,'E','Asistente',20, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006039,'Sebastián Gabriel Espinoza Serrano',TO_DATE('17/1/2020', 'dd/mm/yyyy'), null,1018007020,'E','Coordinador',20, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005117,'Natalia Margarita Alonso Beltrán',TO_DATE('22/5/2020', 'dd/mm/yyyy'), null,1018006039,'E','Asistente',20, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005118,'Alejandro Francisco Ramírez Vásquez',TO_DATE('14/6/2020', 'dd/mm/yyyy'), null,1018006039,'E','Asistente Jr.',20, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005119,'Jenny Luz Nieto Pereira',TO_DATE('23/1/2020', 'dd/mm/yyyy'), null,1018006039,'E','Asistente',20, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007021,'Daniela Margarita Usaquén Espinoza',TO_DATE('27/5/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',21, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006040,'Manuel Joan Valencia Luque',TO_DATE('7/1/2020', 'dd/mm/yyyy'), null,1018007021,'E','Coordinador',21, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005120,'Román Manuel Alonso Guerrero',TO_DATE('16/2/2020', 'dd/mm/yyyy'), null,1018006040,'E','Asistente',21, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005121,'Miguel Edgar Peña Guzmán',TO_DATE('14/4/2020', 'dd/mm/yyyy'), null,1018006040,'E','Asistente Jr.',21, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005122,'José Joan Domínguez Rey',TO_DATE('2/3/2020', 'dd/mm/yyyy'), null,1018006040,'E','Asistente',21, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006041,'Martha Nancy Carrillo Lozano',TO_DATE('25/6/2020', 'dd/mm/yyyy'), null,1018007021,'E','Coordinador',21, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005123,'Melissa Ana Montes Martín',TO_DATE('12/3/2020', 'dd/mm/yyyy'), null,1018006041,'E','Asistente',21, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005124,'Diego Vicente Lara Cabrera',TO_DATE('19/7/2020', 'dd/mm/yyyy'), null,1018006041,'E','Asistente Jr.',21, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005125,'Emilio John Moreno Lara',TO_DATE('9/4/2020', 'dd/mm/yyyy'), null,1018006041,'E','Asistente',21, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007022,'Jorge Abelardo Luque Amador',TO_DATE('3/3/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',22, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006042,'Steven Cristian Mora Santamaría',TO_DATE('21/5/2020', 'dd/mm/yyyy'), null,1018007022,'E','Coordinador',22, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005126,'Alejandro Emilio Ramírez Palacios',TO_DATE('3/1/2020', 'dd/mm/yyyy'), null,1018006042,'E','Asistente',22, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005127,'Manuel Julián Méndez Pinilla',TO_DATE('21/5/2020', 'dd/mm/yyyy'), null,1018006042,'E','Asistente Jr.',22, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005128,'Dora Isabella Salazar Mendoza',TO_DATE('8/7/2020', 'dd/mm/yyyy'), null,1018006042,'E','Asistente',22, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006043,'Román Rafael Asensio Valencia',TO_DATE('26/3/2020', 'dd/mm/yyyy'), null,1018007022,'E','Coordinador',22, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005129,'Jenny Jennifer Jiménez Salas',TO_DATE('27/4/2020', 'dd/mm/yyyy'), null,1018006043,'E','Asistente',22, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005130,'Gustavo Emilio Rivera Duarte',TO_DATE('26/4/2020', 'dd/mm/yyyy'), null,1018006043,'E','Asistente Jr.',22, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005131,'Humberto Gonzalo Reyes Martín',TO_DATE('7/7/2020', 'dd/mm/yyyy'), null,1018006043,'E','Asistente',22, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007023,'Dora Silvia Caballero Montero',TO_DATE('5/7/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',23, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006044,'Eduardo Paul Jiménez Cardona',TO_DATE('2/1/2020', 'dd/mm/yyyy'), null,1018007023,'E','Coordinador',23, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005132,'Augusto Eloy Martínez Reyes',TO_DATE('5/3/2020', 'dd/mm/yyyy'), null,1018006044,'E','Asistente',23, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005133,'Angel David Bolivar Rodríguez',TO_DATE('16/6/2020', 'dd/mm/yyyy'), null,1018006044,'E','Asistente Jr.',23, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005134,'Nicol Andrea Guerra Bolivar',TO_DATE('13/3/2020', 'dd/mm/yyyy'), null,1018006044,'E','Asistente',23, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006045,'Valentina Daniela Medina Castro',TO_DATE('3/2/2020', 'dd/mm/yyyy'), null,1018007023,'E','Coordinador',23, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005135,'Ricardo Guillermo Bermúdez Reyes',TO_DATE('24/3/2020', 'dd/mm/yyyy'), null,1018006045,'E','Asistente',23, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005136,'Claudia Carolina Santos Santos',TO_DATE('26/7/2020', 'dd/mm/yyyy'), null,1018006045,'E','Asistente Jr.',23, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005137,'Diego Fernando Roldán Jiménez',TO_DATE('16/1/2020', 'dd/mm/yyyy'), null,1018006045,'E','Asistente',23, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007024,'Luis Juan Macías Murillo',TO_DATE('14/7/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',24, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006046,'Diego Adrian Herrera Díaz',TO_DATE('8/5/2020', 'dd/mm/yyyy'), null,1018007024,'E','Coordinador',24, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005138,'Nicolás Sebastián Luque Gil',TO_DATE('19/6/2020', 'dd/mm/yyyy'), null,1018006046,'E','Asistente',24, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005139,'Silvana Mery Montoya Rubio',TO_DATE('10/1/2020', 'dd/mm/yyyy'), null,1018006046,'E','Asistente Jr.',24, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005140,'Sofía Verónica González Cruz',TO_DATE('5/3/2020', 'dd/mm/yyyy'), null,1018006046,'E','Asistente',24, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006047,'Orlando Miguel Quintero Lara',TO_DATE('16/7/2020', 'dd/mm/yyyy'), null,1018007024,'E','Coordinador',24, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005141,'John Alejandro Núñez Torres',TO_DATE('26/2/2020', 'dd/mm/yyyy'), null,1018006047,'E','Asistente',24, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005142,'Román Diego Asensio Núñez',TO_DATE('3/2/2020', 'dd/mm/yyyy'), null,1018006047,'E','Asistente Jr.',24, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005143,'Luis Mateo Bernal Mora',TO_DATE('18/7/2020', 'dd/mm/yyyy'), null,1018006047,'E','Asistente',24, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007025,'Miguel Edgar Cardona Barreto',TO_DATE('22/2/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',25, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006048,'Olga Stephanie Alarcón Flores',TO_DATE('2/2/2020', 'dd/mm/yyyy'), null,1018007025,'E','Coordinador',25, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005144,'Gisell Vanessa Estevez Domínguez',TO_DATE('21/1/2020', 'dd/mm/yyyy'), null,1018006048,'E','Asistente',25, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005145,'Isabella Valeria Torres Jiménez',TO_DATE('10/5/2020', 'dd/mm/yyyy'), null,1018006048,'E','Asistente Jr.',25, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005146,'Alberto Raul Alarcón Pérez',TO_DATE('24/7/2020', 'dd/mm/yyyy'), null,1018006048,'E','Asistente',25, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006049,'Leonardo Julián López Gil',TO_DATE('4/3/2020', 'dd/mm/yyyy'), null,1018007025,'E','Coordinador',25, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005147,'Mónica Yamile Estevez Velásquez',TO_DATE('28/4/2020', 'dd/mm/yyyy'), null,1018006049,'E','Asistente',25, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005148,'Carmen Xiomara Galindo Bolivar',TO_DATE('14/6/2020', 'dd/mm/yyyy'), null,1018006049,'E','Asistente Jr.',25, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005149,'Emilio Felipe Suárez Morales',TO_DATE('13/5/2020', 'dd/mm/yyyy'), null,1018006049,'E','Asistente',25, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007026,'Enrique Jaime Cabrera Lara',TO_DATE('25/4/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',26, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006050,'Santiago Edgar Rey Medina',TO_DATE('26/5/2020', 'dd/mm/yyyy'), null,1018007026,'E','Coordinador',26, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005150,'John Jaime Montes Macías',TO_DATE('21/1/2020', 'dd/mm/yyyy'), null,1018006050,'E','Asistente',26, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005151,'Sara Edna Valencia Pinilla',TO_DATE('24/7/2020', 'dd/mm/yyyy'), null,1018006050,'E','Asistente Jr.',26, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005152,'Myriam Stephanie Palacios Moreno',TO_DATE('28/6/2020', 'dd/mm/yyyy'), null,1018006050,'E','Asistente',26, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006051,'Claudia Carmen Palacios Flores',TO_DATE('9/4/2020', 'dd/mm/yyyy'), null,1018007026,'E','Coordinador',26, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005153,'Augusto John Ramírez Exposito',TO_DATE('20/2/2020', 'dd/mm/yyyy'), null,1018006051,'E','Asistente',26, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005154,'Morelia Sara Mora González',TO_DATE('24/2/2020', 'dd/mm/yyyy'), null,1018006051,'E','Asistente Jr.',26, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005155,'Gisell Johanna Serrano Pereira',TO_DATE('6/3/2020', 'dd/mm/yyyy'), null,1018006051,'E','Asistente',26, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007027,'Beatriz Margarita Costa Ramos',TO_DATE('13/4/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',27, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006052,'Victor César Roldán Mora',TO_DATE('11/5/2020', 'dd/mm/yyyy'), null,1018007027,'E','Coordinador',27, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005156,'Susana Susana Vallejo Torres',TO_DATE('7/3/2020', 'dd/mm/yyyy'), null,1018006052,'E','Asistente',27, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005157,'Gonzalo Santiago Lozano Camacho',TO_DATE('9/7/2020', 'dd/mm/yyyy'), null,1018006052,'E','Asistente Jr.',27, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005158,'Armando Simón Guerra Jiménez',TO_DATE('4/4/2020', 'dd/mm/yyyy'), null,1018006052,'E','Asistente',27, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006053,'Gina Diana Cadavid Carrillo',TO_DATE('24/1/2020', 'dd/mm/yyyy'), null,1018007027,'E','Coordinador',27, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005159,'Valeria Tatiana Campos Suárez',TO_DATE('18/4/2020', 'dd/mm/yyyy'), null,1018006053,'E','Asistente',27, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005160,'Rosa Myriam Ramos García',TO_DATE('14/7/2020', 'dd/mm/yyyy'), null,1018006053,'E','Asistente Jr.',27, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005161,'Valentina Sofía Varela Márquez',TO_DATE('28/2/2020', 'dd/mm/yyyy'), null,1018006053,'E','Asistente',27, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007028,'Rosa Gina Rivas Medina',TO_DATE('1/7/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',28, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006054,'Bernardo Orlando Peña Bolivar',TO_DATE('28/5/2020', 'dd/mm/yyyy'), null,1018007028,'E','Coordinador',28, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005162,'Sandra Pilar Pereira Núñez',TO_DATE('3/6/2020', 'dd/mm/yyyy'), null,1018006054,'E','Asistente',28, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005163,'Mateo Paul Mendoza Navarro',TO_DATE('25/7/2020', 'dd/mm/yyyy'), null,1018006054,'E','Asistente Jr.',28, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005164,'Andrés Néstor Nieto Costa',TO_DATE('26/6/2020', 'dd/mm/yyyy'), null,1018006054,'E','Asistente',28, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006055,'Ana Katherine Galindo Quintero',TO_DATE('13/2/2020', 'dd/mm/yyyy'), null,1018007028,'E','Coordinador',28, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005165,'Juan Andrés Delgado Flores',TO_DATE('26/7/2020', 'dd/mm/yyyy'), null,1018006055,'E','Asistente',28, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005166,'Vanessa Mónica Vallejo Vásquez',TO_DATE('22/6/2020', 'dd/mm/yyyy'), null,1018006055,'E','Asistente Jr.',28, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005167,'Gustavo Santiago Galindo Herrera',TO_DATE('28/1/2020', 'dd/mm/yyyy'), null,1018006055,'E','Asistente',28, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007029,'Nathaly Elisa Moreira Roldán',TO_DATE('18/5/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',29, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006056,'Angie Laura Pacheco Guerra',TO_DATE('27/5/2020', 'dd/mm/yyyy'), null,1018007029,'E','Coordinador',29, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005168,'Cristian Cristian Vega Romero',TO_DATE('12/4/2020', 'dd/mm/yyyy'), null,1018006056,'E','Asistente',29, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005169,'Jorge David Moreira Ramírez',TO_DATE('11/3/2020', 'dd/mm/yyyy'), null,1018006056,'E','Asistente Jr.',29, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005170,'Nancy Diana Usaquén Usaquén',TO_DATE('25/7/2020', 'dd/mm/yyyy'), null,1018006056,'E','Asistente',29, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006057,'Jenny Daniela Gil Pacheco',TO_DATE('18/6/2020', 'dd/mm/yyyy'), null,1018007029,'E','Coordinador',29, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005171,'María Margarita Barreto Morales',TO_DATE('13/2/2020', 'dd/mm/yyyy'), null,1018006057,'E','Asistente',29, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005172,'Mónica Carmen Santos Cruz',TO_DATE('8/6/2020', 'dd/mm/yyyy'), null,1018006057,'E','Asistente Jr.',29, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005173,'Yamile Silvana Valencia Cortés',TO_DATE('27/4/2020', 'dd/mm/yyyy'), null,1018006057,'E','Asistente',29, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007030,'Edna Isabel Alarcón Guzmán',TO_DATE('16/1/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',30, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006058,'Nubia Ana Pereira Aparicio',TO_DATE('25/4/2020', 'dd/mm/yyyy'), null,1018007030,'E','Coordinador',30, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005174,'Edgar Pedro Cadavid Rodríguez',TO_DATE('4/7/2020', 'dd/mm/yyyy'), null,1018006058,'E','Asistente',30, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005175,'Francisco Fabián Montoya Exposito',TO_DATE('7/4/2020', 'dd/mm/yyyy'), null,1018006058,'E','Asistente Jr.',30, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005176,'Jéssica Mariana Cabello Amador',TO_DATE('7/3/2020', 'dd/mm/yyyy'), null,1018006058,'E','Asistente',30, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006059,'Vicente Orlando Gil Guzmán',TO_DATE('9/4/2020', 'dd/mm/yyyy'), null,1018007030,'E','Coordinador',30, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005177,'José Gustavo Luque Vásquez',TO_DATE('2/2/2020', 'dd/mm/yyyy'), null,1018006059,'E','Asistente',30, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005178,'Raul José Gutiérrez Ortega',TO_DATE('5/6/2020', 'dd/mm/yyyy'), null,1018006059,'E','Asistente Jr.',30, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005179,'John Rodrigo Navarro Jiménez',TO_DATE('25/1/2020', 'dd/mm/yyyy'), null,1018006059,'E','Asistente',30, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007031,'Mery Carmen Ortiz Castro',TO_DATE('18/2/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',31, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006060,'Myriam Silvia Costa Montes',TO_DATE('2/7/2020', 'dd/mm/yyyy'), null,1018007031,'E','Coordinador',31, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005180,'Silvia Inés Rivera Campos',TO_DATE('15/2/2020', 'dd/mm/yyyy'), null,1018006060,'E','Asistente',31, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005181,'Mayra Stephanie Romero Valencia',TO_DATE('17/5/2020', 'dd/mm/yyyy'), null,1018006060,'E','Asistente Jr.',31, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005182,'Humberto Jerónimo Díaz Núñez',TO_DATE('25/3/2020', 'dd/mm/yyyy'), null,1018006060,'E','Asistente',31, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006061,'Lucas Adrian Salas Mendoza',TO_DATE('8/1/2020', 'dd/mm/yyyy'), null,1018007031,'E','Coordinador',31, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005183,'María Rosa Varela Vásquez',TO_DATE('20/3/2020', 'dd/mm/yyyy'), null,1018006061,'E','Asistente',31, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005184,'Román Fernando Vega Cabello',TO_DATE('12/5/2020', 'dd/mm/yyyy'), null,1018006061,'E','Asistente Jr.',31, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005185,'César Román Vega Costa',TO_DATE('18/6/2020', 'dd/mm/yyyy'), null,1018006061,'E','Asistente',31, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007032,'Andrés Alejandro Roldán León',TO_DATE('2/4/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',32, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006062,'Juliana Silvana Cárdenas Carrillo',TO_DATE('20/2/2020', 'dd/mm/yyyy'), null,1018007032,'E','Coordinador',32, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005186,'Felipe Leonardo Gutiérrez Jiménez',TO_DATE('12/2/2020', 'dd/mm/yyyy'), null,1018006062,'E','Asistente',32, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005187,'Joan Simón Navarro Valencia',TO_DATE('21/6/2020', 'dd/mm/yyyy'), null,1018006062,'E','Asistente Jr.',32, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005188,'Julián Paul Amador Delgado',TO_DATE('25/4/2020', 'dd/mm/yyyy'), null,1018006062,'E','Asistente',32, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006063,'Gabriel Abelardo Castro Gómez',TO_DATE('27/5/2020', 'dd/mm/yyyy'), null,1018007032,'E','Coordinador',32, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005189,'Angélica Sofía González Caballero',TO_DATE('13/3/2020', 'dd/mm/yyyy'), null,1018006063,'E','Asistente',32, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005190,'María Paula Quintana López',TO_DATE('24/5/2020', 'dd/mm/yyyy'), null,1018006063,'E','Asistente Jr.',32, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005191,'José Román Martínez González',TO_DATE('10/4/2020', 'dd/mm/yyyy'), null,1018006063,'E','Asistente',32, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007033,'Mary Isabella Cardona Morales',TO_DATE('19/6/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',33, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006064,'Néstor Ivan Figueroa Moreno',TO_DATE('4/3/2020', 'dd/mm/yyyy'), null,1018007033,'E','Coordinador',33, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005192,'Eloy David Exposito Medina',TO_DATE('22/4/2020', 'dd/mm/yyyy'), null,1018006064,'E','Asistente',33, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005193,'Angel Adrian Martínez Delgado',TO_DATE('25/4/2020', 'dd/mm/yyyy'), null,1018006064,'E','Asistente Jr.',33, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005194,'Susana Isabel Rivera Sierra',TO_DATE('9/5/2020', 'dd/mm/yyyy'), null,1018006064,'E','Asistente',33, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006065,'Luz Rosa Molina León',TO_DATE('5/4/2020', 'dd/mm/yyyy'), null,1018007033,'E','Coordinador',33, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005195,'Nancy Melissa Mendoza Valencia',TO_DATE('9/6/2020', 'dd/mm/yyyy'), null,1018006065,'E','Asistente',33, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005196,'Oscar Gustavo Mendoza Pereira',TO_DATE('22/4/2020', 'dd/mm/yyyy'), null,1018006065,'E','Asistente Jr.',33, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005197,'Angie Adriana Nieto Palacios',TO_DATE('11/1/2020', 'dd/mm/yyyy'), null,1018006065,'E','Asistente',33, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007034,'Eduardo Andrés Pereira Santamaría',TO_DATE('4/1/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',34, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006066,'Carmen Lizeth Marín Rojas',TO_DATE('11/4/2020', 'dd/mm/yyyy'), null,1018007034,'E','Coordinador',34, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005198,'Silvana Melissa Ortiz Varela',TO_DATE('22/2/2020', 'dd/mm/yyyy'), null,1018006066,'E','Asistente',34, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005199,'Enrique Edison Navas Domínguez',TO_DATE('6/7/2020', 'dd/mm/yyyy'), null,1018006066,'E','Asistente Jr.',34, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005200,'Silvia Yolanda Cabello Roldán',TO_DATE('1/1/2020', 'dd/mm/yyyy'), null,1018006066,'E','Asistente',34, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006067,'Nathaly Jenny Santos Usaquén',TO_DATE('10/4/2020', 'dd/mm/yyyy'), null,1018007034,'E','Coordinador',34, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005201,'Nathaly Johanna Vallejo Salazar',TO_DATE('6/6/2020', 'dd/mm/yyyy'), null,1018006067,'E','Asistente',34, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005202,'Jaime Abelardo Núñez Gil',TO_DATE('28/1/2020', 'dd/mm/yyyy'), null,1018006067,'E','Asistente Jr.',34, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005203,'Rodrigo Oscar Cabrera Luque',TO_DATE('4/1/2020', 'dd/mm/yyyy'), null,1018006067,'E','Asistente',34, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007035,'Paola Angélica Serrano Ibáñez',TO_DATE('1/5/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',35, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1019004001,'Aura Milena Rodríguez Díaz',TO_DATE('02/02/2020', 'dd/mm/yyyy'), null,1018007035,'E','Auxiliar',35, null, null, null, null,'INV');
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1019004002,'Yeison Snader Martínez Soto',TO_DATE('04/03/2020', 'dd/mm/yyyy'), null,1018007035,'E','Auxiliar',35, null, null, null, null,'INV');
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1019004003,'Diana Marjorie Pineda Vanegas',TO_DATE('05/04/2020', 'dd/mm/yyyy'), null,1018007035,'E','Auxiliar',35, null, null, null, null,'INV');
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006068,'Joan Pedro Moreno Navarro',TO_DATE('10/3/2020', 'dd/mm/yyyy'), null,1018007035,'E','Coordinador',35, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005204,'Guillermo Esteban Fernández Salas',TO_DATE('6/4/2020', 'dd/mm/yyyy'), null,1018006068,'E','Asistente',35, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005205,'Eloy Leonardo Mora Silva',TO_DATE('4/3/2020', 'dd/mm/yyyy'), null,1018006068,'E','Asistente Jr.',35, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005206,'Juan Edgar Jiménez Guerra',TO_DATE('1/3/2020', 'dd/mm/yyyy'), null,1018006068,'E','Asistente',35, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006069,'Lizeth Nelly Santos Álvarez',TO_DATE('25/5/2020', 'dd/mm/yyyy'), null,1018007035,'E','Coordinador',35, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005207,'Diego Antonio Asensio Suárez',TO_DATE('22/1/2020', 'dd/mm/yyyy'), null,1018006069,'E','Asistente',35, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005208,'Jennifer Sara Márquez Serrano',TO_DATE('22/3/2020', 'dd/mm/yyyy'), null,1018006069,'E','Asistente Jr.',35, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005209,'Victor Fabián Ortega Macías',TO_DATE('24/7/2020', 'dd/mm/yyyy'), null,1018006069,'E','Asistente',35, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007036,'Paola Nicol Esteban Reyes',TO_DATE('7/6/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',36, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006070,'Adrian Javier Montoya Santos',TO_DATE('16/1/2020', 'dd/mm/yyyy'), null,1018007036,'E','Coordinador',36, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005210,'Jéssica Olga Segura Lara',TO_DATE('13/6/2020', 'dd/mm/yyyy'), null,1018006070,'E','Asistente',36, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005211,'Guillermo Guillermo Prieto Estevez',TO_DATE('10/2/2020', 'dd/mm/yyyy'), null,1018006070,'E','Asistente Jr.',36, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005212,'Silvana Margarita Martín Esteban',TO_DATE('21/5/2020', 'dd/mm/yyyy'), null,1018006070,'E','Asistente',36, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006071,'Mayra Katherine Montoya Moreno',TO_DATE('2/1/2020', 'dd/mm/yyyy'), null,1018007036,'E','Coordinador',36, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005213,'Carlos Santiago Alonso Noratto',TO_DATE('11/6/2020', 'dd/mm/yyyy'), null,1018006071,'E','Asistente',36, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005214,'Inés Mónica Segura Rivas',TO_DATE('24/3/2020', 'dd/mm/yyyy'), null,1018006071,'E','Asistente Jr.',36, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005215,'Augusto Alejandro Pérez Pacheco',TO_DATE('22/7/2020', 'dd/mm/yyyy'), null,1018006071,'E','Asistente',36, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007037,'Ricardo Diego Aparicio Delgado',TO_DATE('23/4/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',37, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1019004004,'Tatiana Ana Quintana Esteban',TO_DATE('03/03/2020', 'dd/mm/yyyy'), null,1018007037,'E','Auxiliar',37, null, null, null, null,'MAN');
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1019004005,'Martha Ana Martínez Martínez',TO_DATE('01/06/2020', 'dd/mm/yyyy'), null,1018007037,'E','Auxiliar',37, null, null, null, null,'MAN');
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1019004006,'Gisell Xiomara Pérez Camacho',TO_DATE('05/07/2020', 'dd/mm/yyyy'), null,1018007037,'E','Auxiliar',37, null, null, null, null,'MAN');
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006072,'Johanna Adela Bernal Ortiz',TO_DATE('2/1/2020', 'dd/mm/yyyy'), null,1018007037,'E','Coordinador',37, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005216,'Silvia Mariana Núñez Prieto',TO_DATE('24/7/2020', 'dd/mm/yyyy'), null,1018006072,'E','Asistente',37, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005217,'Beatriz Ana Meléndez Vargas',TO_DATE('21/3/2020', 'dd/mm/yyyy'), null,1018006072,'E','Asistente Jr.',37, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005218,'Ivan Román Usaquén Arias',TO_DATE('16/4/2020', 'dd/mm/yyyy'), null,1018006072,'E','Asistente',37, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006073,'Fernando Abelardo Valencia Figueroa',TO_DATE('13/3/2020', 'dd/mm/yyyy'), null,1018007037,'E','Coordinador',37, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005219,'Tatiana Mary Rivas Cárdenas',TO_DATE('16/5/2020', 'dd/mm/yyyy'), null,1018006073,'E','Asistente',37, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005220,'Eloy Enrique Barrios Cadavid',TO_DATE('8/4/2020', 'dd/mm/yyyy'), null,1018006073,'E','Asistente Jr.',37, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005221,'Laura Ruth Santamaría Núñez',TO_DATE('28/3/2020', 'dd/mm/yyyy'), null,1018006073,'E','Asistente',37, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007038,'Gonzalo Armando Fernández Quintero',TO_DATE('15/4/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',38, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006074,'Alexis Jerónimo Santana Díaz',TO_DATE('23/3/2020', 'dd/mm/yyyy'), null,1018007038,'E','Coordinador',38, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005222,'Olga Paula Jiménez Guerrero',TO_DATE('27/6/2020', 'dd/mm/yyyy'), null,1018006074,'E','Asistente',38, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005223,'Alberto César Santana Roldán',TO_DATE('15/2/2020', 'dd/mm/yyyy'), null,1018006074,'E','Asistente Jr.',38, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005224,'Morelia Patricia Hurtado Pérez',TO_DATE('22/4/2020', 'dd/mm/yyyy'), null,1018006074,'E','Asistente',38, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006075,'Jesús Fabián Valencia Asensio',TO_DATE('17/2/2020', 'dd/mm/yyyy'), null,1018007038,'E','Coordinador',38, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005225,'Pablo Bernardo Barreto Domínguez',TO_DATE('15/4/2020', 'dd/mm/yyyy'), null,1018006075,'E','Asistente',38, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005226,'Nicolás Bernardo Fernández Ramírez',TO_DATE('19/3/2020', 'dd/mm/yyyy'), null,1018006075,'E','Asistente Jr.',38, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005227,'Eloy Joan Castro Arias',TO_DATE('20/6/2020', 'dd/mm/yyyy'), null,1018006075,'E','Asistente',38, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007039,'Jéssica Carolina Rey Márquez',TO_DATE('14/6/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',39, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006076,'José Ricardo Ortega Gutiérrez',TO_DATE('12/5/2020', 'dd/mm/yyyy'), null,1018007039,'E','Coordinador',39, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005228,'Daniel Armando Campos Cárdenas',TO_DATE('27/2/2020', 'dd/mm/yyyy'), null,1018006076,'E','Asistente',39, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005229,'Valentina Beatriz Noratto Rios',TO_DATE('14/6/2020', 'dd/mm/yyyy'), null,1018006076,'E','Asistente Jr.',39, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005230,'Ricardo Humberto Acosta Ortiz',TO_DATE('12/5/2020', 'dd/mm/yyyy'), null,1018006076,'E','Asistente',39, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006077,'Felipe Juan Pacheco Alonso',TO_DATE('11/3/2020', 'dd/mm/yyyy'), null,1018007039,'E','Coordinador',39, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005231,'Carmen Yolanda Amador Roldán',TO_DATE('3/7/2020', 'dd/mm/yyyy'), null,1018006077,'E','Asistente',39, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005232,'Armando Paul Bolivar Montes',TO_DATE('4/4/2020', 'dd/mm/yyyy'), null,1018006077,'E','Asistente Jr.',39, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005233,'Oscar Enrique Cortés Silva',TO_DATE('2/3/2020', 'dd/mm/yyyy'), null,1018006077,'E','Asistente',39, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007040,'Ana Valentina Barrios García',TO_DATE('4/5/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',40, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006078,'Armando Pablo Redondo Segura',TO_DATE('9/4/2020', 'dd/mm/yyyy'), null,1018007040,'E','Coordinador',40, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005234,'Nathaly Valentina Murillo Hernández',TO_DATE('4/2/2020', 'dd/mm/yyyy'), null,1018006078,'E','Asistente',40, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005235,'Fabián Vicente Hurtado Rios',TO_DATE('25/7/2020', 'dd/mm/yyyy'), null,1018006078,'E','Asistente Jr.',40, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005236,'Verónica Adriana Gómez Romero',TO_DATE('18/4/2020', 'dd/mm/yyyy'), null,1018006078,'E','Asistente',40, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006079,'Nubia Daniela Herrera Molina',TO_DATE('13/4/2020', 'dd/mm/yyyy'), null,1018007040,'E','Coordinador',40, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005237,'Elisa Sandra Costa Salazar',TO_DATE('18/6/2020', 'dd/mm/yyyy'), null,1018006079,'E','Asistente',40, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005238,'Emilio Rodrigo Esteban Figueroa',TO_DATE('18/1/2020', 'dd/mm/yyyy'), null,1018006079,'E','Asistente Jr.',40, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005239,'Bernardo Nicolás Flores Campos',TO_DATE('19/1/2020', 'dd/mm/yyyy'), null,1018006079,'E','Asistente',40, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007041,'Román David Velásquez Noratto',TO_DATE('16/2/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',41, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006080,'Pilar Carolina Exposito Santos',TO_DATE('17/2/2020', 'dd/mm/yyyy'), null,1018007041,'E','Coordinador',41, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005240,'Román Humberto Calderón Caballero',TO_DATE('2/3/2020', 'dd/mm/yyyy'), null,1018006080,'E','Asistente',41, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005241,'Luz Tatiana Alarcón Cabrera',TO_DATE('19/4/2020', 'dd/mm/yyyy'), null,1018006080,'E','Asistente Jr.',41, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005242,'Joan Jesús Pinilla Silva',TO_DATE('7/3/2020', 'dd/mm/yyyy'), null,1018006080,'E','Asistente',41, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006081,'Joan Angel Prieto Montoya',TO_DATE('11/3/2020', 'dd/mm/yyyy'), null,1018007041,'E','Coordinador',41, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005243,'Bernardo Augusto Usaquén Morales',TO_DATE('11/5/2020', 'dd/mm/yyyy'), null,1018006081,'E','Asistente',41, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005244,'Carolina Nubia Aparicio Gil',TO_DATE('26/2/2020', 'dd/mm/yyyy'), null,1018006081,'E','Asistente Jr.',41, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005245,'Angel Orlando Murillo Estevez',TO_DATE('2/5/2020', 'dd/mm/yyyy'), null,1018006081,'E','Asistente',41, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007042,'Xiomara Natalia Álvarez Morales',TO_DATE('9/1/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',42, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006082,'Augusto Jaime Beltrán Vargas',TO_DATE('10/7/2020', 'dd/mm/yyyy'), null,1018007042,'E','Coordinador',42, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005246,'Tania Angie Ramírez Noratto',TO_DATE('24/4/2020', 'dd/mm/yyyy'), null,1018006082,'E','Asistente',42, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005247,'Mery Xiomara Pinilla Noratto',TO_DATE('6/6/2020', 'dd/mm/yyyy'), null,1018006082,'E','Asistente Jr.',42, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005248,'Gloria Susana Flores Velásquez',TO_DATE('4/5/2020', 'dd/mm/yyyy'), null,1018006082,'E','Asistente',42, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006083,'Alexis César Martínez Meléndez',TO_DATE('5/4/2020', 'dd/mm/yyyy'), null,1018007042,'E','Coordinador',42, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005249,'John Vicente Marín Carrillo',TO_DATE('4/5/2020', 'dd/mm/yyyy'), null,1018006083,'E','Asistente',42, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005250,'César Emilio Cárdenas Jiménez',TO_DATE('12/7/2020', 'dd/mm/yyyy'), null,1018006083,'E','Asistente Jr.',42, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005251,'Stephanie Gina Ortiz Marín',TO_DATE('27/5/2020', 'dd/mm/yyyy'), null,1018006083,'E','Asistente',42, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007043,'Claudia Mery Exposito Murillo',TO_DATE('22/1/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',43, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006084,'María Claudia Costa Castillo',TO_DATE('2/6/2020', 'dd/mm/yyyy'), null,1018007043,'E','Coordinador',43, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005252,'Mayra Angie Campos Rivas',TO_DATE('27/7/2020', 'dd/mm/yyyy'), null,1018006084,'E','Asistente',43, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005253,'Adrian Cristian Prieto Alonso',TO_DATE('6/4/2020', 'dd/mm/yyyy'), null,1018006084,'E','Asistente Jr.',43, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005254,'Paola Valentina Guerra Núñez',TO_DATE('20/1/2020', 'dd/mm/yyyy'), null,1018006084,'E','Asistente',43, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006085,'Jesús Adrian Hurtado Flores',TO_DATE('21/7/2020', 'dd/mm/yyyy'), null,1018007043,'E','Coordinador',43, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005255,'Jerónimo Sebastián Vallejo Quintana',TO_DATE('28/6/2020', 'dd/mm/yyyy'), null,1018006085,'E','Asistente',43, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005256,'Angie Myriam Carrillo Martínez',TO_DATE('5/2/2020', 'dd/mm/yyyy'), null,1018006085,'E','Asistente Jr.',43, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005257,'Raul Néstor Díaz Exposito',TO_DATE('18/4/2020', 'dd/mm/yyyy'), null,1018006085,'E','Asistente',43, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007044,'Lorena Isabel Santamaría Castro',TO_DATE('18/2/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',44, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006086,'Carmen Yamile Suárez Pereira',TO_DATE('23/5/2020', 'dd/mm/yyyy'), null,1018007044,'E','Coordinador',44, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005258,'Yamile Valeria Meza Galeano',TO_DATE('18/7/2020', 'dd/mm/yyyy'), null,1018006086,'E','Asistente',44, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005259,'David Gabriel Cardona Marín',TO_DATE('26/6/2020', 'dd/mm/yyyy'), null,1018006086,'E','Asistente Jr.',44, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005260,'Angie Laura Flores Santos',TO_DATE('20/2/2020', 'dd/mm/yyyy'), null,1018006086,'E','Asistente',44, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006087,'Raul Abelardo Esteban Pinilla',TO_DATE('8/1/2020', 'dd/mm/yyyy'), null,1018007044,'E','Coordinador',44, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005261,'Augusto Alexis Delgado Rios',TO_DATE('19/3/2020', 'dd/mm/yyyy'), null,1018006087,'E','Asistente',44, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005262,'Rodrigo Lucas Usaquén Montes',TO_DATE('24/2/2020', 'dd/mm/yyyy'), null,1018006087,'E','Asistente Jr.',44, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005263,'Pedro Lucas Ramos Vallejo',TO_DATE('7/2/2020', 'dd/mm/yyyy'), null,1018006087,'E','Asistente',44, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007045,'David David Sierra Peña',TO_DATE('13/5/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',45, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006088,'Emilio Angel Galeano Cortés',TO_DATE('16/4/2020', 'dd/mm/yyyy'), null,1018007045,'E','Coordinador',45, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005264,'Nubia Amparo Barrios Arias',TO_DATE('6/3/2020', 'dd/mm/yyyy'), null,1018006088,'E','Asistente',45, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005265,'Mary Luz Núñez Calderón',TO_DATE('17/2/2020', 'dd/mm/yyyy'), null,1018006088,'E','Asistente Jr.',45, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005266,'Andrés Daniel Montes Quintana',TO_DATE('14/3/2020', 'dd/mm/yyyy'), null,1018006088,'E','Asistente',45, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006089,'Nathaly Patricia Reyes Morales',TO_DATE('17/3/2020', 'dd/mm/yyyy'), null,1018007045,'E','Coordinador',45, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005267,'Jéssica Nancy Duarte Santos',TO_DATE('22/7/2020', 'dd/mm/yyyy'), null,1018006089,'E','Asistente',45, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005268,'Santiago Victor Pérez Marín',TO_DATE('1/1/2020', 'dd/mm/yyyy'), null,1018006089,'E','Asistente Jr.',45, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005269,'Gisell Pilar Lozano Alonso',TO_DATE('23/1/2020', 'dd/mm/yyyy'), null,1018006089,'E','Asistente',45, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007046,'Javier Felipe Hurtado Costa',TO_DATE('13/3/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',46, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006090,'Lina Gloria Castro Hurtado',TO_DATE('14/4/2020', 'dd/mm/yyyy'), null,1018007046,'E','Coordinador',46, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005270,'Daniela Mayra Carrillo Calderón',TO_DATE('1/1/2020', 'dd/mm/yyyy'), null,1018006090,'E','Asistente',46, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005271,'Ivan Victor Alarcón García',TO_DATE('10/1/2020', 'dd/mm/yyyy'), null,1018006090,'E','Asistente Jr.',46, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005272,'Mónica Claudia Campos Gutiérrez',TO_DATE('7/2/2020', 'dd/mm/yyyy'), null,1018006090,'E','Asistente',46, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006091,'Laura Verónica Méndez Figueroa',TO_DATE('26/4/2020', 'dd/mm/yyyy'), null,1018007046,'E','Coordinador',46, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005273,'Jorge Ricardo Prieto Castro',TO_DATE('16/7/2020', 'dd/mm/yyyy'), null,1018006091,'E','Asistente',46, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005274,'Daniela Elisa Barreto Rey',TO_DATE('12/5/2020', 'dd/mm/yyyy'), null,1018006091,'E','Asistente Jr.',46, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005275,'Morelia Lina Montes Espinoza',TO_DATE('5/3/2020', 'dd/mm/yyyy'), null,1018006091,'E','Asistente',46, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007047,'Gina Yolanda Salazar Méndez',TO_DATE('7/3/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',47, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006092,'Adela Jennifer Palacios Gómez',TO_DATE('24/2/2020', 'dd/mm/yyyy'), null,1018007047,'E','Coordinador',47, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005276,'Nathaly Paola Vallejo Gómez',TO_DATE('10/5/2020', 'dd/mm/yyyy'), null,1018006092,'E','Asistente',47, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005277,'Lucas Néstor Arias Castillo',TO_DATE('16/3/2020', 'dd/mm/yyyy'), null,1018006092,'E','Asistente Jr.',47, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005278,'Simón Sergio Sánchez Hernández',TO_DATE('26/2/2020', 'dd/mm/yyyy'), null,1018006092,'E','Asistente',47, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006093,'Lina Gina Díaz López',TO_DATE('6/3/2020', 'dd/mm/yyyy'), null,1018007047,'E','Coordinador',47, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005279,'Isabel Gloria Guerrero Santos',TO_DATE('14/1/2020', 'dd/mm/yyyy'), null,1018006093,'E','Asistente',47, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005280,'Myriam Yolanda Ramírez Díaz',TO_DATE('4/5/2020', 'dd/mm/yyyy'), null,1018006093,'E','Asistente Jr.',47, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005281,'Paola Beatriz Moreno García',TO_DATE('5/6/2020', 'dd/mm/yyyy'), null,1018006093,'E','Asistente',47, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007048,'Edgar Humberto Luque Pinilla',TO_DATE('11/4/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',48, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006094,'Alex Edison Galeano García',TO_DATE('6/4/2020', 'dd/mm/yyyy'), null,1018007048,'E','Coordinador',48, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005282,'Inés Nancy González Mendoza',TO_DATE('19/3/2020', 'dd/mm/yyyy'), null,1018006094,'E','Asistente',48, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005283,'Amparo Vanessa Pacheco Salazar',TO_DATE('24/7/2020', 'dd/mm/yyyy'), null,1018006094,'E','Asistente Jr.',48, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005284,'Guillermo Humberto Santana Amador',TO_DATE('22/5/2020', 'dd/mm/yyyy'), null,1018006094,'E','Asistente',48, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006095,'Carolina Vanessa Rey Aparicio',TO_DATE('28/6/2020', 'dd/mm/yyyy'), null,1018007048,'E','Coordinador',48, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005285,'Gustavo Román Moreira Santos',TO_DATE('28/2/2020', 'dd/mm/yyyy'), null,1018006095,'E','Asistente',48, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005286,'Pedro John Cardona Redondo',TO_DATE('18/5/2020', 'dd/mm/yyyy'), null,1018006095,'E','Asistente Jr.',48, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005287,'Valeria Lizeth Cárdenas Barrios',TO_DATE('24/5/2020', 'dd/mm/yyyy'), null,1018006095,'E','Asistente',48, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007049,'Daniela Olga Salas Caballero',TO_DATE('16/1/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',49, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006096,'Julián Diego Herrera Cardona',TO_DATE('11/5/2020', 'dd/mm/yyyy'), null,1018007049,'E','Coordinador',49, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005288,'Luz Andrea Arias Barreto',TO_DATE('23/7/2020', 'dd/mm/yyyy'), null,1018006096,'E','Asistente',49, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005289,'Alexis Joan Serrano Cadavid',TO_DATE('15/5/2020', 'dd/mm/yyyy'), null,1018006096,'E','Asistente Jr.',49, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005290,'Xiomara Claudia Rubio Amador',TO_DATE('15/7/2020', 'dd/mm/yyyy'), null,1018006096,'E','Asistente',49, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006097,'Mónica Yamile Guzmán Ortiz',TO_DATE('24/3/2020', 'dd/mm/yyyy'), null,1018007049,'E','Coordinador',49, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005291,'Augusto Román Barreto Sierra',TO_DATE('24/6/2020', 'dd/mm/yyyy'), null,1018006097,'E','Asistente',49, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005292,'Gloria Lorena Mendoza Guerrero',TO_DATE('28/1/2020', 'dd/mm/yyyy'), null,1018006097,'E','Asistente Jr.',49, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005293,'Yamile Yolanda Lozano Guerra',TO_DATE('19/1/2020', 'dd/mm/yyyy'), null,1018006097,'E','Asistente',49, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007050,'Angel Andrés Meza Bermúdez',TO_DATE('2/4/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',50, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006098,'Mayra Rosa Galindo Rey',TO_DATE('3/5/2020', 'dd/mm/yyyy'), null,1018007050,'E','Coordinador',50, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005294,'Alex Fernando Martínez Quintero',TO_DATE('11/2/2020', 'dd/mm/yyyy'), null,1018006098,'E','Asistente',50, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005295,'Beatriz Jennifer Gutiérrez Exposito',TO_DATE('20/2/2020', 'dd/mm/yyyy'), null,1018006098,'E','Asistente Jr.',50, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005296,'Andrés Jaime Camacho Pérez',TO_DATE('16/2/2020', 'dd/mm/yyyy'), null,1018006098,'E','Asistente',50, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006099,'Nicol Edna Bermúdez Figueroa',TO_DATE('1/3/2020', 'dd/mm/yyyy'), null,1018007050,'E','Coordinador',50, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005297,'César Guillermo Campos Morales',TO_DATE('13/4/2020', 'dd/mm/yyyy'), null,1018006099,'E','Asistente',50, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005298,'Felipe Alex Ibáñez Méndez',TO_DATE('18/4/2020', 'dd/mm/yyyy'), null,1018006099,'E','Asistente Jr.',50, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005299,'María Silvia Caballero García',TO_DATE('7/5/2020', 'dd/mm/yyyy'), null,1018006099,'E','Asistente',50, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007051,'Melissa Sandra Pereira Ortega',TO_DATE('6/5/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',51, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006100,'Nicolás Guillermo Macías Rivas',TO_DATE('12/1/2020', 'dd/mm/yyyy'), null,1018007051,'E','Coordinador',51, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005300,'Lorena Mary Rey López',TO_DATE('10/3/2020', 'dd/mm/yyyy'), null,1018006100,'E','Asistente',51, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005301,'Jesús Roberto González Bermúdez',TO_DATE('21/2/2020', 'dd/mm/yyyy'), null,1018006100,'E','Asistente Jr.',51, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005302,'María Gloria Moreno Hurtado',TO_DATE('19/6/2020', 'dd/mm/yyyy'), null,1018006100,'E','Asistente',51, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006101,'Vicente Adrian Campos Ortiz',TO_DATE('7/5/2020', 'dd/mm/yyyy'), null,1018007051,'E','Coordinador',51, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005303,'Mateo Humberto Segura Lara',TO_DATE('4/4/2020', 'dd/mm/yyyy'), null,1018006101,'E','Asistente',51, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005304,'Sofía Tatiana Gómez Álvarez',TO_DATE('10/1/2020', 'dd/mm/yyyy'), null,1018006101,'E','Asistente Jr.',51, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005305,'Jennifer María Rojas López',TO_DATE('27/2/2020', 'dd/mm/yyyy'), null,1018006101,'E','Asistente',51, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007052,'Paul Fernando Estevez García',TO_DATE('22/1/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',52, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006102,'Andrés Santiago Segura Vega',TO_DATE('11/7/2020', 'dd/mm/yyyy'), null,1018007052,'E','Coordinador',52, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005306,'Katherine Gisell Sierra Santana',TO_DATE('28/4/2020', 'dd/mm/yyyy'), null,1018006102,'E','Asistente',52, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005307,'Leonardo Alberto Galindo Delgado',TO_DATE('21/6/2020', 'dd/mm/yyyy'), null,1018006102,'E','Asistente Jr.',52, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005308,'Adriana Tania Cardona Moreira',TO_DATE('25/4/2020', 'dd/mm/yyyy'), null,1018006102,'E','Asistente',52, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006103,'Gustavo Eduardo Calderón Rivera',TO_DATE('9/5/2020', 'dd/mm/yyyy'), null,1018007052,'E','Coordinador',52, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005309,'Eloy Santiago Rivera Peña',TO_DATE('8/3/2020', 'dd/mm/yyyy'), null,1018006103,'E','Asistente',52, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005310,'Alberto Felipe Espinoza Serrano',TO_DATE('8/7/2020', 'dd/mm/yyyy'), null,1018006103,'E','Asistente Jr.',52, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005311,'Humberto César González Velásquez',TO_DATE('24/4/2020', 'dd/mm/yyyy'), null,1018006103,'E','Asistente',52, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007053,'Nathaly Sofía Reyes Cortés',TO_DATE('23/1/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',53, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006104,'Tatiana Edna Martínez Espinoza',TO_DATE('20/4/2020', 'dd/mm/yyyy'), null,1018007053,'E','Coordinador',53, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005312,'Natalia Susana Rubio Cabello',TO_DATE('19/7/2020', 'dd/mm/yyyy'), null,1018006104,'E','Asistente',53, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005313,'Alejandro Simón Ramos García',TO_DATE('5/5/2020', 'dd/mm/yyyy'), null,1018006104,'E','Asistente Jr.',53, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005314,'Humberto Nicolás Reyes Montes',TO_DATE('7/3/2020', 'dd/mm/yyyy'), null,1018006104,'E','Asistente',53, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006105,'Gustavo Eduardo Martínez Torres',TO_DATE('20/2/2020', 'dd/mm/yyyy'), null,1018007053,'E','Coordinador',53, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005315,'Melissa Mary Meza Alarcón',TO_DATE('23/2/2020', 'dd/mm/yyyy'), null,1018006105,'E','Asistente',53, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005316,'Diego Steven Bernal Usaquén',TO_DATE('7/1/2020', 'dd/mm/yyyy'), null,1018006105,'E','Asistente Jr.',53, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005317,'Edison José Lara Velásquez',TO_DATE('5/3/2020', 'dd/mm/yyyy'), null,1018006105,'E','Asistente',53, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007054,'Paula Jéssica Sánchez Martínez',TO_DATE('15/2/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',54, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1019004007,'Isabella Susana Martínez Reyes',TO_DATE('23/7/2020', 'dd/mm/yyyy'), null,1018007054,'E','Auxiliar',54, null, null, null, null,'LAB');
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1019004008,'María Vanessa Flores Hurtado',TO_DATE('3/7/2020', 'dd/mm/yyyy'), null,1018007054,'E','Auxiliar',54, null, null, null, null,'LAB');
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1019004009,'Augusto David Varela Galeano',TO_DATE('5/6/2020', 'dd/mm/yyyy'), null,1018007054,'E','Auxiliar',54, null, null, null, null,'LAB');
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1019004010,'Edison Edgar Cárdenas Ortega',TO_DATE('28/2/2020', 'dd/mm/yyyy'), null,1018007054,'E','Auxiliar',54, null, null, null, null,'LAB');
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1019004011,'Edna Diana Santamaría Campos',TO_DATE('4/6/2020', 'dd/mm/yyyy'), null,1018007054,'E','Auxiliar',54, null, null, null, null,'LAB');
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006106,'Susana Isabel Roldán Castro',TO_DATE('7/2/2020', 'dd/mm/yyyy'), null,1018007054,'E','Coordinador',54, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005318,'Morelia Melissa Rios Exposito',TO_DATE('17/2/2020', 'dd/mm/yyyy'), null,1018006106,'E','Asistente',54, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005319,'Guillermo Miguel Rios Valencia',TO_DATE('28/5/2020', 'dd/mm/yyyy'), null,1018006106,'E','Asistente Jr.',54, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005320,'Vicente Rafael Cruz Márquez',TO_DATE('12/7/2020', 'dd/mm/yyyy'), null,1018006106,'E','Asistente',54, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006107,'Mónica Inés Díaz Fernández',TO_DATE('15/5/2020', 'dd/mm/yyyy'), null,1018007054,'E','Coordinador',54, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005321,'Nathaly Isabel Jiménez Quintana',TO_DATE('5/6/2020', 'dd/mm/yyyy'), null,1018006107,'E','Asistente',54, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005322,'Mary Luz Ortiz Rivas',TO_DATE('25/7/2020', 'dd/mm/yyyy'), null,1018006107,'E','Asistente Jr.',54, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005323,'Nathaly Sandra Castro Márquez',TO_DATE('11/2/2020', 'dd/mm/yyyy'), null,1018006107,'E','Asistente',54, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007055,'Olga Mayra Bolivar Santana',TO_DATE('13/5/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',55, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1019004012,'Tania Rosa Rubio Segura',TO_DATE('9/3/2020', 'dd/mm/yyyy'), null,1018007055,'E','Auxiliar',55, null, null, null, null,'LAB');
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1019004013,'Guillermo Alejandro Rios Rubio',TO_DATE('15/4/2020', 'dd/mm/yyyy'), null,1018007055,'E','Auxiliar',55, null, null, null, null,'LAB');
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1019004014,'Sergio Paul Lozano Macías',TO_DATE('1/6/2020', 'dd/mm/yyyy'), null,1018007055,'E','Auxiliar',55, null, null, null, null,'LAB');
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006108,'Andrés Alberto Espinoza Lara',TO_DATE('7/3/2020', 'dd/mm/yyyy'), null,1018007055,'E','Coordinador',55, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005324,'Carmen Ruth García Rodríguez',TO_DATE('27/2/2020', 'dd/mm/yyyy'), null,1018006108,'E','Asistente',55, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005325,'Victor Paul Medina Ramos',TO_DATE('24/3/2020', 'dd/mm/yyyy'), null,1018006108,'E','Asistente Jr.',55, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005326,'Victor Gonzalo Montero Pérez',TO_DATE('18/7/2020', 'dd/mm/yyyy'), null,1018006108,'E','Asistente',55, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006109,'Bernardo Alexis Aparicio Redondo',TO_DATE('10/3/2020', 'dd/mm/yyyy'), null,1018007055,'E','Coordinador',55, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005327,'Nicol Sofía Santamaría Guerra',TO_DATE('10/7/2020', 'dd/mm/yyyy'), null,1018006109,'E','Asistente',55, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005328,'Nubia Martha Herrera Calderón',TO_DATE('2/4/2020', 'dd/mm/yyyy'), null,1018006109,'E','Asistente Jr.',55, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005329,'Sara Katherine Vallejo Martín',TO_DATE('17/3/2020', 'dd/mm/yyyy'), null,1018006109,'E','Asistente',55, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018007056,'Mery Valentina Gutiérrez Serrano',TO_DATE('5/5/2020', 'dd/mm/yyyy'), null, null,'E','Jefe de Área',56, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1019004015,'Andrea Edna Mendoza Rubio',TO_DATE('2/5/2020', 'dd/mm/yyyy'), null,1018007056,'E','Auxiliar',56, null, null, null, null,'LAB');
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1019004016,'Armando Diego Romero Cabello',TO_DATE('24/7/2020', 'dd/mm/yyyy'), null,1018007056,'E','Auxiliar',56, null, null, null, null,'LAB');
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1019004017,'Javier Johnatan Velásquez Quintero',TO_DATE('9/1/2020', 'dd/mm/yyyy'), null,1018007056,'E','Auxiliar',56, null, null, null, null,'LAB');
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1019004018,'Julián Diego Palacios Romero',TO_DATE('22/1/2020', 'dd/mm/yyyy'), null,1018007056,'E','Auxiliar',56, null, null, null, null,'LAB');
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1019004019,'Sonia Ruth Peña Sierra',TO_DATE('7/4/2020', 'dd/mm/yyyy'), null,1018007056,'E','Auxiliar',56, null, null, null, null,'LAB');
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1019004020,'Gonzalo Gustavo Roldán Segura',TO_DATE('3/2/2020', 'dd/mm/yyyy'), null,1018007056,'E','Auxiliar',56, null, null, null, null,'LAB');
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1019004021,'Carmen Nicol Pacheco Macías',TO_DATE('27/5/2020', 'dd/mm/yyyy'), null,1018007056,'E','Auxiliar',56, null, null, null, null,'LAB');
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1019004022,'Victor Fernando Montoya Valencia',TO_DATE('9/1/2020', 'dd/mm/yyyy'), null,1018007056,'E','Auxiliar',56, null, null, null, null,'LAB');
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1019004023,'Lucía Mery Cardona Marín',TO_DATE('6/5/2020', 'dd/mm/yyyy'), null,1018007056,'E','Auxiliar',56, null, null, null, null,'LAB');
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1019004024,'Andrés Jaime Marín Barreto',TO_DATE('28/1/2020', 'dd/mm/yyyy'), null,1018007056,'E','Auxiliar',56, null, null, null, null,'LAB');
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1019004025,'Rosa Nicol Mora Ramírez',TO_DATE('9/4/2020', 'dd/mm/yyyy'), null,1018007056,'E','Auxiliar',56, null, null, null, null,'LAB');
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1019004026,'Pedro Julián Cortés Guerrero',TO_DATE('5/1/2020', 'dd/mm/yyyy'), null,1018007056,'E','Auxiliar',56, null, null, null, null,'LAB');
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006110,'Valentina Juliana Carrillo Mendoza',TO_DATE('12/2/2020', 'dd/mm/yyyy'), null,1018007056,'E','Coordinador',56, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005330,'Fabián Leonardo Cardona Cortés',TO_DATE('17/2/2020', 'dd/mm/yyyy'), null,1018006110,'E','Asistente',56, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005331,'Vicente César Vargas Mendoza',TO_DATE('19/3/2020', 'dd/mm/yyyy'), null,1018006110,'E','Asistente Jr.',56, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005332,'Elisa Stephanie Galeano Lozano',TO_DATE('26/6/2020', 'dd/mm/yyyy'), null,1018006110,'E','Asistente',56, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018006111,'Inés Carolina Núñez Lara',TO_DATE('27/2/2020', 'dd/mm/yyyy'), null,1018007056,'E','Coordinador',56, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005333,'Néstor Daniel Pérez Lara',TO_DATE('4/5/2020', 'dd/mm/yyyy'), null,1018006111,'E','Asistente',56, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005334,'María Myriam Caballero Rios',TO_DATE('13/2/2020', 'dd/mm/yyyy'), null,1018006111,'E','Asistente Jr.',56, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1018005335,'Beatriz Claudia Cabello Redondo',TO_DATE('12/6/2020', 'dd/mm/yyyy'), null,1018006111,'E','Asistente',56, null, null, null, null, null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005000,'Daniela Luz Santos Barrios',TO_DATE('9/3/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Especialización','Instructor','AGR','ZOO', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005001,'Juliana Lina Ortega Cadavid',TO_DATE('22/4/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Maestría','Asociado','AGR','ZOO', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005002,'Martha Johanna García González',TO_DATE('9/7/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Doctorado','Asociado','AGR','ZOO', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005003,'Román Fernando Salazar Figueroa',TO_DATE('12/6/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Especialización','Instructor','AGR','ZOO', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005004,'Raul Francisco Castillo Palacios',TO_DATE('6/1/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Doctorado','Titular','ECO','AFS', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005005,'Susana Jéssica Navas Bolivar',TO_DATE('26/5/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Especialización','Instructor','ECO','AFS', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005006,'Sergio Edgar Caballero Pacheco',TO_DATE('16/1/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Maestría','Asistente','ECO','AFS', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005007,'Yamile Edna Barrios Medina',TO_DATE('11/2/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Doctorado','Titular','ECO','SGI', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005008,'Daniela Isabella Díaz Nieto',TO_DATE('19/6/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Especialización','Instructor','ECO','SGI', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005009,'Andrés David Rey Ramírez',TO_DATE('28/3/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Maestría','Asistente','ECO','SGI', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005010,'Cristian Victor Barreto Montero',TO_DATE('12/4/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Doctorado','Titular','ECO','SGI', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005011,'Mery Amparo Suárez Ramírez',TO_DATE('18/2/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Maestría','Titular','ING','ALI', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005012,'Jorge Esteban Galeano Guerrero',TO_DATE('8/7/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Doctorado','Asociado','ING','ALI', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005013,'Nicolás Alexis Pinilla Suárez',TO_DATE('20/7/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Especialización','Instructor','ING','ALI', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005014,'Johnatan Luis Segura Ibáñez',TO_DATE('17/6/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Maestría','Titular','ING','ALI', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005015,'Natalia Mariana Segura Silva',TO_DATE('21/6/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Especialización','Instructor','ING','MEC', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005016,'Jennifer Daniela Murillo Meza',TO_DATE('24/1/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Maestría','Asociado','ING','MEC', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005017,'Alejandro Paul Álvarez Ramírez',TO_DATE('15/5/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Doctorado','Asociado','ING','MEC', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005018,'Julián David Moreira Roldán',TO_DATE('10/2/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Especialización','Instructor','ING','MEC', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005019,'Fabián Augusto Guerra Delgado',TO_DATE('21/7/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Maestría','Asociado','ING','MEC', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005020,'Andrea Myriam Suárez Álvarez',TO_DATE('8/2/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Maestría','Titular','ECO','EGA', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005021,'Victor Rafael Torres Pereira',TO_DATE('3/7/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Doctorado','Asociado','ECO','EGA', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005022,'Esteban Simón Esteban Santamaría',TO_DATE('25/5/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Especialización','Instructor','ECO','EGA', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005023,'Ricardo Alexis Roldán Jiménez',TO_DATE('13/3/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Maestría','Titular','CIE','LCNEA', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005024,'Andrés Augusto Guerrero Santana',TO_DATE('13/1/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Especialización','Instructor','ING','AGR', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005025,'Adrian Gonzalo Vásquez Serrano',TO_DATE('2/4/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Maestría','Asociado','ING','AGR', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005026,'Valeria Angélica Figueroa Velásquez',TO_DATE('26/2/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Doctorado','Asociado','ING','AGR', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005027,'Alberto Joan Meza Rivera',TO_DATE('8/1/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Especialización','Instructor','ING','AGR', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005028,'Jerónimo Mateo Cadavid Pinilla',TO_DATE('24/4/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Doctorado','Titular','JUR','DER', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005029,'Inés Natalia Sánchez Guerrero',TO_DATE('27/5/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Especialización','Instructor','JUR','DER', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005030,'Tania Luz Álvarez Vega',TO_DATE('19/4/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Maestría','Asistente','JUR','DER', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005031,'Johnatan Alexis Cortés Torres',TO_DATE('7/5/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Doctorado','Titular','JUR','DER', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005032,'Armando Julián Rojas Domínguez',TO_DATE('28/3/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Maestría','Titular','ING','IND', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005033,'Claudia Juliana Vásquez Cadavid',TO_DATE('16/5/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Doctorado','Asociado','ING','IND', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005034,'Mónica María Ramírez Quintero',TO_DATE('28/5/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Especialización','Instructor','ING','IND', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005035,'Pablo Cristian Reyes Rey',TO_DATE('21/5/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Maestría','Titular','ING','IND', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005036,'Enrique Jesús Usaquén Bolivar',TO_DATE('4/3/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Doctorado','Asociado','ING','IND', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005037,'Felipe Oscar Velásquez Vallejo',TO_DATE('2/6/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Doctorado','Titular','AGR','BAT', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005038,'Santiago Mateo Jiménez Montero',TO_DATE('5/7/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Especialización','Instructor','AGR','BAT', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005039,'Diana Katherine Lara Nieto',TO_DATE('19/4/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Maestría','Asistente','AGR','BAT', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005040,'Elisa Silvana Ramírez Méndez',TO_DATE('10/1/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Doctorado','Titular','AGR','BAT', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005041,'Jaime Jorge Lozano Santamaría',TO_DATE('6/1/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Maestría','Titular','AGR','VET', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005042,'Fabián Simón Montero Galindo',TO_DATE('2/5/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Especialización','Instructor','ING','SGI', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005043,'Lorena Juliana Ortega Esteban',TO_DATE('2/7/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Maestría','Asociado','ING','SGI', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005044,'Martha Tatiana Alarcón Figueroa',TO_DATE('14/6/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Doctorado','Asociado','ING','SGI', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005045,'Armando Leonardo Moreira Vega',TO_DATE('3/6/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Especialización','Instructor','JUR','LROT', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005046,'Olga Paola Pérez Salas',TO_DATE('24/1/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Maestría','Asociado','JUR','LROT', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005047,'Elisa Johanna Salazar Pérez',TO_DATE('12/6/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Doctorado','Asociado','JUR','LROT', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005048,'Bernardo Esteban Cruz Gil',TO_DATE('24/3/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Especialización','Instructor','ING','CIV', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005049,'Carmen Mónica Pereira Flores',TO_DATE('18/7/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Maestría','Asociado','ING','CIV', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005050,'Nubia Angie Navas Acosta',TO_DATE('21/3/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Maestría','Titular','ECO','CON', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005051,'Jerónimo Jerónimo Bernal García',TO_DATE('19/1/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Doctorado','Asociado','ECO','CON', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005052,'Angélica Sofía Lara Lozano',TO_DATE('19/3/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Especialización','Instructor','ECO','CON', null);
+
+insert into FUNCIONARIO (ID_FUNCIONARIO, NOMBRE_FUNCIONARIO, INIC_CONTRATO_FUNCIONARIO, FIN_CONTRATO_FUNCIONARIO,  ID_JEFE, TIPO_FUNCIONARIO, CARGO_EMPLEADO, ID_AREA, TITULO_DOCENTE, ROL_DOCENTE, ID_FACULTAD, ID_PROGRAMA, TIPO_AUXILIAR)  values (1017005053,'Bernardo Andrés Salas Alonso',TO_DATE('9/4/2020', 'dd/mm/yyyy'), null, null,'D', null, null,'Maestría','Titular','ECO','CON', null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (17,100,'Salón P100','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (17,101,'Salón P101','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (17,102,'Salón P102','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (17,103,'Salón P103','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (17,104,'Salón P104','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (17,105,'Salón P105','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (17,106,'Salón P106','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (17,107,'Salón P107','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (17,108,'Salón P108','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (17,109,'Salón P109','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (17,110,'Salón P110','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (17,111,'Auditorio Gustavo David Bermúdez García','S',130,'AUD', null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (18,100,'Salón C100','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (18,101,'Salón C101','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (18,102,'Salón C102','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (18,103,'Salón C103','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (18,104,'Salón C104','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (18,105,'Salón C105','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (18,106,'Salón C106','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (18,107,'Salón C107','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (18,108,'Salón C108','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (18,109,'Salón C109','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (18,110,'Salón C110','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (18,111,'Salón C111','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (18,112,'Salón C112','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (18,113,'Salón C113','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (18,114,'Salón C114','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (18,115,'Salón C115','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (18,116,'Salón C116','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (18,117,'Salón C117','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (18,118,'Salón C118','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (18,119,'Salón C119','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (18,120,'Salón C120','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (18,121,'Salón C121','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (18,122,'Salón C122','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (18,123,'Salón C123','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (18,124,'Salón C124','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (18,125,'Salón C125','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (18,126,'Salón C126','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (15,100,'Salón O100','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (15,101,'Salón O101','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (15,102,'Salón O102','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (15,103,'Salón O103','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (15,104,'Salón O104','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (15,105,'Salón O105','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (15,106,'Salón O106','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (15,107,'Salón O107','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (15,108,'Salón O108','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (15,109,'Salón O109','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (15,110,'Auditorio Orlando Cristian Peña Usaquén','S',100,'AUD', null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (16,100,'Salón A100','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (16,101,'Salón A101','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (16,102,'Salón A102','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (16,103,'Salón A103','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (16,104,'Salón A104','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (16,105,'Salón A105','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (16,106,'Salón A106','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (16,107,'Salón A107','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (16,108,'Salón A108','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (16,109,'Salón A109','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (16,110,'Salón A110','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (16,111,'Salón A111','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (16,112,'Salón A112','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (16,113,'Salón A113','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (16,114,'Salón A114','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (16,115,'Salón A115','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,100,'Salón P100','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,101,'Salón P101','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,102,'Salón P102','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,103,'Salón P103','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,104,'Salón P104','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,105,'Salón P105','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,106,'Salón P106','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,107,'Salón P107','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,108,'Salón P108','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,109,'Salón P109','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,110,'Salón P110','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,111,'Salón P111','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,112,'Salón P112','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,113,'Salón P113','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,114,'Salón P114','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,115,'Salón P115','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,116,'Salón P116','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,117,'Salón P117','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,118,'Salón P118','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,119,'Salón P119','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,120,'Salón P120','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,121,'Salón P121','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,122,'Salón P122','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,123,'Salón P123','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,124,'Salón P124','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,125,'Salón P125','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,126,'Salón P126','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,127,'Salón P127','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,128,'Salón P128','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (13,129,'Auditorio Julián Eloy Álvarez Torres','S',130,'AUD', null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,100,'Salón L100','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,101,'Salón L101','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,102,'Salón L102','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,103,'Salón L103','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,104,'Salón L104','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,105,'Salón L105','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,106,'Salón L106','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,107,'Salón L107','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,108,'Salón L108','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,109,'Salón L109','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,110,'Salón L110','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,111,'Salón L111','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,112,'Salón L112','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,113,'Salón L113','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,114,'Salón L114','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,115,'Salón L115','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,116,'Salón L116','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,117,'Salón L117','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,118,'Salón L118','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,119,'Salón L119','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,120,'Salón L120','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,121,'Salón L121','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,122,'Salón L122','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,123,'Salón L123','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,124,'Salón L124','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,125,'Salón L125','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,126,'Salón L126','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,127,'Salón L127','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,128,'Salón L128','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (14,129,'Salón L129','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (11,100,'Salón P100','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (11,101,'Salón P101','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (11,102,'Salón P102','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (11,103,'Salón P103','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (11,104,'Salón P104','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (11,105,'Salón P105','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (11,106,'Salón P106','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (11,107,'Salón P107','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (11,108,'Salón P108','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (11,109,'Salón P109','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (11,110,'Auditorio Alejandro Roberto Nieto Domínguez','S',140,'AUD', null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (12,100,'Salón C100','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (12,101,'Salón C101','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (12,102,'Salón C102','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (12,103,'Salón C103','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (12,104,'Salón C104','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (12,105,'Salón C105','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (12,106,'Salón C106','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (12,107,'Salón C107','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (12,108,'Salón C108','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (12,109,'Salón C109','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (12,110,'Salón C110','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (12,111,'Salón C111','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (12,112,'Salón C112','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (12,113,'Salón C113','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (12,114,'Salón C114','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (12,115,'Salón C115','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (12,116,'Salón C116','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (12,117,'Salón C117','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (12,118,'Salón C118','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (12,119,'Salón C119','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (12,120,'Salón C120','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (12,121,'Salón C121','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (12,122,'Salón C122','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (12,123,'Salón C123','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,100,'Salón C100','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,101,'Salón C101','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,102,'Salón C102','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,103,'Salón C103','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,104,'Salón C104','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,105,'Salón C105','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,106,'Salón C106','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,107,'Salón C107','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,108,'Salón C108','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,109,'Salón C109','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,110,'Salón C110','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,111,'Salón C111','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,112,'Salón C112','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,113,'Salón C113','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,114,'Salón C114','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,115,'Salón C115','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,116,'Salón C116','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,117,'Salón C117','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,118,'Salón C118','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,119,'Salón C119','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,120,'Salón C120','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,121,'Salón C121','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,122,'Salón C122','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,123,'Salón C123','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,124,'Salón C124','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,125,'Salón C125','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,126,'Salón C126','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,127,'Salón C127','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,128,'Salón C128','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,129,'Salón C129','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,130,'Salón C130','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,131,'Salón C131','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,132,'Salón C132','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,133,'Salón C133','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,134,'Salón C134','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,135,'Salón C135','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,136,'Salón C136','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (3,137,'Auditorio Jennifer Elisa Meléndez Gutiérrez','S',140,'AUD', null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,100,'Salón B100','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,101,'Salón B101','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,102,'Salón B102','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,103,'Salón B103','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,104,'Salón B104','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,105,'Salón B105','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,106,'Salón B106','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,107,'Salón B107','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,108,'Salón B108','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,109,'Salón B109','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,110,'Salón B110','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,111,'Salón B111','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,112,'Salón B112','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,113,'Salón B113','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,114,'Salón B114','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,115,'Salón B115','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,116,'Salón B116','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,117,'Salón B117','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,118,'Salón B118','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,119,'Salón B119','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,120,'Salón B120','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,121,'Salón B121','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,122,'Salón B122','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,123,'Salón B123','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,124,'Salón B124','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,125,'Salón B125','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,126,'Salón B126','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,127,'Salón B127','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,128,'Salón B128','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,129,'Salón B129','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,130,'Salón B130','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,131,'Salón B131','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (2,132,'Salón B132','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (1,100,'Salón A100','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (1,101,'Salón A101','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (1,102,'Salón A102','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (1,103,'Salón A103','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (1,104,'Salón A104','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (1,105,'Salón A105','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (1,106,'Salón A106','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (1,107,'Salón A107','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (1,108,'Auditorio César Miguel Cardona Montes','S',110,'AUD', null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (10,100,'Salón J100','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (10,101,'Salón J101','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (10,102,'Salón J102','S',50, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (10,103,'Salón J103','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (10,104,'Salón J104','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (10,105,'Salón J105','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (10,106,'Salón J106','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (10,107,'Salón J107','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (10,108,'Salón J108','S',20, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (10,109,'Salón J109','S',30, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (10,110,'Salón J110','S',60, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (10,111,'Salón J111','S',40, null, null, null, null, null);
+
+insert into LOCACION (ID_EDIFICIO, ID_LOCACION, NOMBRE_LOCACION, TIPO_LOCACION,  CAPACIDAD_SALON, TIPO_SALON, PUESTOS_OFICINA, ID_AREA, ID_AUXILIAR, ACREDITACION_LAB)  values (10,112,'Salón J112','S',50, null, null, null, null, null);

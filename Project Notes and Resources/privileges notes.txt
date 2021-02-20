@@ -1,0 +1,28 @@
+
+GRANT PRIVILEGIOS ROLES
+	Equipo de desarrollo
+        Uusarios aplicación: auxiliares, GH, contabilidad, compras, logística
+
+
+Normalización 1FN, 2FN, 3FN
+
+Procedimientos ALMACENADOS
+
+Aserciones y Triggers
+
+
+
+
+
+
+
+
+UNIQUE sobre LAB y AUX OK
+
+
+
+USER DEFINED TYPES
+OBJETOS EXTENSOS
+
+
+
